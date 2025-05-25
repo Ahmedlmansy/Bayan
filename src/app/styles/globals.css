@@ -1,0 +1,239 @@
+@custom-variant dark (&:is(.dark *));
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+@import "bootstrap/dist/css/bootstrap.min.css";
+@import url("https://fonts.googleapis.com/css2?family=Cairo:wght@400;700&display=swap");
+@import "tw-animate-css";
+:root {
+  --main-landing: rgb(105 80 232 / 1);
+  --background: #fdfdff;
+  --background-input: #fdfdff;
+  --main-color: #111827;
+  --text: #6b7280;
+
+  --grey-hover: #f7f5fe;
+  --btn-back: #f8f7fe;
+}
+
+* {
+  font-family: "Cairo", sans-serif;
+  padding: 0;
+  margin: 0;
+}
+
+[data-theme="dark"] {
+  --background: #111827;
+  --text: #e5e7eb;
+  --background-input: #fdfdff;
+  --btn-back: #f8f7fe;
+  --grey-hover: #1f2937;
+}
+input::placeholder {
+  background-color: transparent !important;
+  color: #eee !important;
+}
+body {
+  background-color: var(--background) !important;
+}
+
+.container,
+.row,
+.col {
+  background-color: var(--background) !important;
+  color: var(--text) !important;
+}
+
+/* 
+Cuostme
+*/
+.h-landing {
+  font-size: 36px;
+  line-height: 56px;
+  font-weight: bold;
+}
+.h2-landing {
+  font-size: 30px;
+  font-weight: 500;
+}
+.h3-landing {
+  font-size: 20px;
+  font-weight: bold;
+}
+.h4 {
+  font-size: 14px;
+  font-weight: 600;
+}
+.p-description {
+  font-size: 14px;
+}
+.grey-des {
+  color: var(--text);
+}
+.link-custom {
+  text-decoration: none;
+  color: var(--main-landing);
+}
+.dangerColor {
+  color: #ef4770;
+  text-decoration: none;
+}
+.btn-2 {
+  background-color: var(--btn-back) !important;
+  color: var(--main-landing) !important;
+}
+.btn-1 {
+  background-color: var(--main-landing) !important;
+}
+svg {
+  width: 24px;
+  height: 24px;
+}
+/*
+Layout 
+*/
+
+.all_links {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+  position: relative;
+}
+
+.all_links .nav_link {
+  margin: 12px 0;
+}
+.all_links .nav_link a,
+.dropdown_menu {
+  text-decoration: none;
+  color: var(--text);
+  display: flex;
+  gap: 10px;
+  padding: 10px 8px;
+  transition: all 0.5s ease-in;
+  cursor: pointer;
+}
+.all_links .nav_link a:hover,
+.dropdown_menu:hover {
+  background-color: var(--grey-hover);
+  color: var(--main-landing);
+  border-radius: 8px;
+}
+.all_links .nav_link a svg,
+.dropdown_menu svg {
+  width: 20px;
+  fill: var(--text);
+  transition: all 0.5s ease-in;
+}
+.all_links .nav_link a:hover svg,
+.dropdown_menu:hover svg {
+  fill: var(--main-landing);
+}
+.all_links .dropdown_menu {
+  position: relative;
+}
+.active_link {
+  background-color: var(--grey-hover);
+  color: var(--main-landing) !important;
+  border-radius: 8px;
+}
+.active_link svg {
+  fill: var(--main-landing) !important;
+}
+.all_links .dropdown_icon {
+  position: absolute;
+  width: 8px;
+  height: 8px;
+  border-bottom: 1px solid #6b7280;
+  border-left: 1px solid #6b7280;
+  top: 50%;
+  right: 8px;
+  transform: translateY(-50%) rotate(-45deg);
+}
+.headerStiky .icon {
+  width: 40px;
+  height: 40px;
+  padding: 10px;
+  border-radius: 50%;
+  display: flex;
+  align-items: center;
+  cursor: pointer;
+}
+.headerStiky .icon:hover {
+  background: var(--grey-hover);
+}
+.headerStiky .icon svg {
+  width: 24px;
+  height: 24px;
+  fill: var(--text);
+}
+.otherIcons {
+  display: flex;
+  justify-content: end;
+}
+
+@media (max-width: 990px) {
+  .sidebar {
+    width: 300px;
+  }
+}
+
+/* 
+Auth pages
+*/
+
+.auth-landing {
+  height: 100vh;
+  width: 100%;
+}
+.auth-welcome {
+  height: 100%;
+  background-color: var(--main-landing);
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: start;
+}
+.registration-area {
+  background-color: var(--main-background);
+  color: var(--main-color);
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+}
+.signIn_container {
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+}
+.forget_remeber {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.sign_social {
+  display: flex;
+  justify-content: center;
+}
+.sign_social div {
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  align-items: center;
+  width: 44px;
+  height: 44px;
+  margin: 10px;
+  border: 1px solid #eee;
+  border-radius: 5px;
+  cursor: pointer;
+}
+.forget_password {
+  display: flex;
+  height: 100vh;
+  align-items: center;
+  justify-content: center;
+}
+
+/* 
+---break---
+*/
