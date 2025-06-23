@@ -10,10 +10,11 @@
   --background: #fdfdff;
   --background-input: #fdfdff;
   --main-color: #111827;
-  --text: #6b7280;
-
+  --text: #111827;
   --grey-hover: #f7f5fe;
+  --grey-color: #6b7280;
   --btn-back: #f8f7fe;
+  --backHigh: #def7e5;
 }
 
 * {
@@ -25,9 +26,12 @@
 [data-theme="dark"] {
   --background: #111827;
   --text: #e5e7eb;
+  --main-color: #e5e7eb;
   --background-input: #fdfdff;
   --btn-back: #f8f7fe;
+  --grey-color: #ffffff;
   --grey-hover: #1f2937;
+  --backHigh: #374151;
 }
 input::placeholder {
   background-color: transparent !important;
@@ -35,13 +39,6 @@ input::placeholder {
 }
 body {
   background-color: var(--background) !important;
-}
-
-.container,
-.row,
-.col {
-  background-color: var(--background) !important;
-  color: var(--text) !important;
 }
 
 /* 
@@ -59,10 +56,12 @@ Cuostme
 .h3-landing {
   font-size: 20px;
   font-weight: bold;
+  color: var(--main-color) !important;
 }
 .h4 {
   font-size: 14px;
   font-weight: 600;
+  color: var(--main-color) !important;
 }
 .p-description {
   font-size: 14px;
@@ -78,6 +77,11 @@ Cuostme
   color: #ef4770;
   text-decoration: none;
 }
+.btn {
+  background: var(--btn-back) !important;
+  color: var(--main-landing) !important;
+  font-size: 14px;
+}
 .btn-2 {
   background-color: var(--btn-back) !important;
   color: var(--main-landing) !important;
@@ -88,6 +92,12 @@ Cuostme
 svg {
   width: 24px;
   height: 24px;
+}
+.flex_one {
+  flex: 1 !important;
+}
+.flex2 {
+  flex: 2;
 }
 /*
 Layout 
@@ -234,6 +244,148 @@ Auth pages
   justify-content: center;
 }
 
-/* 
----break---
+/*
+Home Page 
 */
+.container-chart {
+  box-shadow: 1px 1px 20px 10px var(--grey-hover);
+  border-radius: 10px;
+}
+.all_material {
+  display: flex;
+  gap: 10px;
+}
+@media (max-width: 620px) {
+  .all_material {
+    flex-direction: column;
+  }
+}
+.name_data {
+  color: var(--text);
+}
+.count-data {
+  cursor: pointer;
+}
+.high,
+.low {
+  margin: 0;
+  font-size: 12px;
+  font-weight: 500;
+}
+.high {
+  color: #11b881;
+}
+.backHigh {
+  background-color: var(--backHigh);
+  border-radius: 10px;
+  padding: 2px 4px;
+}
+.low {
+  color: #ef4770;
+}
+.active-data {
+  background-color: var(--grey-hover);
+  border-radius: 10px;
+}
+.apexcharts-canvas {
+  width: 100% !important;
+  height: 100% !important;
+}
+
+.apexcharts-svg {
+  width: 100% !important;
+  height: 100% !important;
+  background: transparent !important;
+}
+
+.apexcharts-inner {
+  width: 100% !important;
+  height: 100% !important;
+}
+
+.apexcharts-text {
+  fill: #373d3f !important;
+  font-family: inherit !important;
+}
+
+.apexcharts-title-text {
+  fill: #373d3f !important;
+  font-size: 16px !important;
+  font-weight: bold !important;
+}
+
+.apexcharts-xaxis-label,
+.apexcharts-yaxis-label {
+  fill: #373d3f !important;
+  font-size: 12px !important;
+}
+
+.apexcharts-gridline {
+  stroke: #e0e0e0 !important;
+  stroke-width: 1 !important;
+}
+
+.chart-container {
+  width: 100%;
+  height: auto;
+  background: white;
+  position: relative;
+}
+
+.dark .apexcharts-text,
+.dark .apexcharts-title-text,
+.dark .apexcharts-xaxis-label,
+.dark .apexcharts-yaxis-label {
+  fill: #ffffff !important;
+}
+
+.dark .apexcharts-gridline {
+  stroke: #404040 !important;
+}
+
+.dark .chart-container {
+  background: #1a1a1a;
+}
+/* Social Table Style */
+
+.table-container {
+  background-color: transparent !important;
+  width: 100%;
+  border-radius: 12px;
+  box-shadow: none !important;
+}
+
+.custom-table {
+  width: 100%;
+  border-collapse: collapse;
+}
+
+.MuiTableCell-root.table-head-cell {
+  font-weight: bold;
+  font-size: 12px;
+  color: var(--grey-color);
+}
+
+.MuiTableCell-root.table-cell {
+  font-size: 13px;
+  color: var(--grey-color);
+  padding: 12px 16px;
+  text-align: center;
+  border-bottom: 1px #ccc solid !important;
+}
+
+.source-name {
+  font-weight: bold;
+  font-size: 14px;
+  color: var(--main-color);
+}
+
+.source-category {
+  font-size: 12px;
+  color: gray;
+}
+.numSocial {
+  color: var(--text);
+  font-size: 28px;
+  font-weight: 700;
+}

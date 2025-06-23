@@ -43,7 +43,29 @@
   "forgot_password": "هل نسيت كلمة المرور؟",
   "forgot_password_desc": "يرجى إدخال البريد الإلكتروني المرتبط بحسابك وسنرسل لك رابطًا لإعادة تعيين كلمة المرور.",
   "email": "البريد الإلكتروني",
-  "send_link": "إرسال الرابط",
-  "back_to_sign_in": "العودة لتسجيل الدخول",
-  "this_field_required": "هذا الحقل مطلوب"
+  "send_link": "إرسال الرابط",  "back_to_sign_in": "العودة لتسجيل الدخول",
+  "this_field_required": "هذا الحقل مطلوب",
+  "simple_chart": "رسم بياني بسيط",
+  "chart_sales": "المبيعات",
+  "chart_months": {
+    "january": "يناير",
+    "february": "فبراير",
+    "march": "مارس",
+    "april": "أبريل",
+    "may": "مايو"
+  },
+  "days": {
+    "sunday": "الأحد",
+    "monday": "الاثنين",
+    "tuesday": "الثلاثاء",
+    "wednesday": "الأربعاء",
+    "thursday": "الخميس",
+    "friday": "الجمعة",
+    "saturday": "السبت"
+  },
+  "Bounce_Rate" : "معدل الارتداد",
+  "Session_Duration" : "مدة الجلسة",
+  "live_online_user" : "مستخدم متصل حالياً",
+  "page_views" : "عدد زيارات الصفحة",
+  "second" : "ثانية"
 }

@@ -1,6 +1,6 @@
 import "./styles/globals.css";
 import "bootstrap/dist/css/bootstrap.min.css";
-import MainLayout from "@/componats/MainLayout";
+import MainLayout from "@/components/MainLayout";
 
 export const metadata = {
   title: "Bayan",

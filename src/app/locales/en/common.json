@@ -45,5 +45,29 @@
   "email": "Email",
   "send_link": "Send Link",
   "back_to_sign_in": "Back to Sign In",
-  "this_field_required": "This field is required"
+  "this_field_required": "This field is required",
+  "simple_chart": "Simple Chart",
+  "chart_sales": "Sales",
+  "chart_months": {
+    "january": "January",
+    "february": "February",
+    "march": "March",
+    "april": "April",
+    "may": "May"
+  },
+  "days": {
+    "sunday": "Sun",
+    "monday": "Mon",
+    "tuesday": "Tue",
+    "wednesday": "Wed",
+    "thursday": "Thu",
+    "friday": "Fri",
+    "saturday": "Sat"
+  },
+  "Bounce_Rate" : "Bounce Rate",
+  "Session_Duration" : "Session Duration",
+  "live_online_user" : "Live Online User",
+  "page_views" : "Page views",
+  "second" : " Second"
+
 }
