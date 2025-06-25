@@ -10,7 +10,7 @@ import { useTranslation } from "react-i18next";
 export default function ForgetPassword() {
   const { t } = useTranslation("common");
 
-  const { theme, setTheme } = useTheme();
+  const { theme } = useTheme();
   const currentTheme = theme || "light";
 
   const styles = {

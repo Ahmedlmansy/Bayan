@@ -5,8 +5,8 @@ import { useTheme } from "next-themes";
 import { useTranslation } from "react-i18next";
 
 export default function DrawerSaidbar() {
-  const { theme, setTheme } = useTheme();
-  const [mounted, setMounted] = useState(false);
+  const { theme } = useTheme();
+  const [mounted] = useState(false);
   const { i18n } = useTranslation();
   const currentTheme = mounted ? theme || "light" : "light";
   const [open, setOpen] = useState(false);
@@ -37,8 +37,7 @@ export default function DrawerSaidbar() {
         anchor={i18n.language === "ar" ? "right" : "left"}
         variant="temporary"
         open={open}
-        onClose={(e) => {
-          e.stopPropagation();
+        onClose={() => {
           toggleDrawer(false);
         }}
       >

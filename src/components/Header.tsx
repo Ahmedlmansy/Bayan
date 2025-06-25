@@ -8,7 +8,7 @@ import DrawerSaidbar from "./DrawerSaidbar";
 
 export default function Header() {
   const { theme, setTheme } = useTheme();
-  const [mounted, setMounted] = useState(false);
+  const [, setMounted] = useState(false);
   useEffect(() => {
     setMounted(true);
   }, []);

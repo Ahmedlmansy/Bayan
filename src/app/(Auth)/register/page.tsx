@@ -9,7 +9,7 @@ import { useTranslation } from "react-i18next";
 export default function Register() {
   const { t } = useTranslation("common");
 
-  const { theme, setTheme } = useTheme();
+  const { theme } = useTheme();
   const [mounted, setMounted] = useState(false);
 
   useEffect(() => {
