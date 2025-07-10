@@ -15,6 +15,7 @@
   --grey-color: #6b7280;
   --btn-back: #f8f7fe;
   --backHigh: #def7e5;
+  --backLow: #fef1f4;
 }
 
 * {
@@ -32,6 +33,7 @@
   --grey-color: #ffffff;
   --grey-hover: #1f2937;
   --backHigh: #374151;
+  --backLow: #374151;
 }
 input::placeholder {
   background-color: transparent !important;
@@ -283,6 +285,11 @@ Home Page
 .low {
   color: #ef4770;
 }
+.backLow {
+  background-color: var(--backLow);
+  border-radius: 10px;
+  padding: 2px 4px;
+}
 .active-data {
   background-color: var(--grey-hover);
   border-radius: 10px;
@@ -361,6 +368,7 @@ Home Page
 }
 
 .MuiTableCell-root.table-head-cell {
+  text-align: center;
   font-weight: bold;
   font-size: 12px;
   color: var(--grey-color);
@@ -378,9 +386,12 @@ Home Page
   font-weight: bold;
   font-size: 14px;
   color: var(--main-color);
+  text-align: start;
 }
 
 .source-category {
+  text-align: start;
+
   font-size: 12px;
   color: gray;
 }
@@ -388,4 +399,36 @@ Home Page
   color: var(--text);
   font-size: 28px;
   font-weight: 700;
+}
+.firstSession {
+  display: flex;
+  flex-direction: column;
+}
+.dount-data {
+  border-top: 1px dashed #ccc;
+  padding: 10px 0;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.nameBrowser {
+  color: var(--text);
+  font-size: 14px;
+  font-weight: 500;
+}
+.color-dot {
+  width: 8px;
+  height: 8px;
+  border-radius: 50%;
+  display: inline-block;
+  margin-right: 4px;
+  background-color: black;
+}
+.data-percentage {
+  display: flex;
+  gap: 20px;
+}
+.rsm-svg {
+  width: 100% !important;
+  height: 100% !important;
 }

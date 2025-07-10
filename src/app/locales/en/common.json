@@ -68,6 +68,21 @@
   "Session_Duration" : "Session Duration",
   "live_online_user" : "Live Online User",
   "page_views" : "Page views",
-  "second" : " Second"
+  "second" : " Second",
+  "Visits_by_Top_Referral_Source": "Visits by Top Referral Source",
+  "REFERRAL_SOURCE" : "REFERRAL SOURCE",
+  "VISITS" : "VISITS",
+  "BOUNCE_RATE" : "BOUNCE RATE (%)",
+  "CHART": "CHART",
+  "Dribbble": "Dribbble",
+  "LinkedIn":"LinkedIn",
+  "Twitter": "Twitter",
+  "Community": "Community",
+  "Social_Media": "Social Media",
+  "Completed_Goals" : "Completed Goals",
+  "Complete_Rates": "Complete Rates",
+  "Sales_by_Country" : "Sales by Country",
+  "Top_Countries": "Top 7 Countries",
+  "Session_by_browser": "Session by browser"
 
 }

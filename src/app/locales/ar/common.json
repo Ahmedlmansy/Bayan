@@ -67,5 +67,20 @@
   "Session_Duration" : "مدة الجلسة",
   "live_online_user" : "مستخدم متصل حالياً",
   "page_views" : "عدد زيارات الصفحة",
-  "second" : "ثانية"
+  "second" : "ثانية",
+  "Visits_by_Top_Referral_Source": "الزيارات من أعلى مصدر إحالات",
+  "REFERRAL_SOURCE": "مصدر الإحالة",
+  "VISITS": "الزيارات",
+  "BOUNCE_RATE": "معدل الارتداد (%)",
+  "CHART": "الرسم البياني",
+  "Dribbble": "Dribbble",
+  "LinkedIn": "LinkedIn",
+  "Twitter": "تويتر",
+  "Community": "المجتمع",
+  "Social_Media": "التواصل الاجتماعي",
+  "Completed_Goals": "الأهداف المكتملة",
+  "Complete_Rates": "معدلات الإكمال",
+  "Sales_by_Country": "المبيعات حسب الدولة",
+  "Top_Countries": "أكثر 7 دول زيارة",
+  "Session_by_browser": "الجلسات حسب المتصفح"
 }
