@@ -82,5 +82,19 @@
   "Complete_Rates": "معدلات الإكمال",
   "Sales_by_Country": "المبيعات حسب الدولة",
   "Top_Countries": "أكثر 7 دول زيارة",
-  "Session_by_browser": "الجلسات حسب المتصفح"
+  "Session_by_browser": "الجلسات حسب المتصفح",
+  "Top_performing_pages" :"أفضل الصفحات أداءً",
+  "Counted_in_Millions":"محسوبة بالملايين",
+  "clicks" : "النقرات",
+  "views" : "المشاهدات",
+  "keywords": "الكلمات الرئيسية",
+  "admin_dashboard": "لوحة التحكم الإدارية",
+  "top_admin_dashboard": "أفضل لوحة تحكم إدارية",
+  "top_Queries": "أعلى الاستعلامات",
+  "admin_panel": "لوحة المشرف",
+  "analytics_dashboard": "لوحة التحليل",
+  "minimal_dashboard": "لوحة تحكم بسيطة",
+  "clean_ui_template": "قالب واجهة نظيف",
+  "logistics_dashboard" : "لوحة القيادة اللوجستية"
+
 }

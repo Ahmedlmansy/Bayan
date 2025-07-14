@@ -6,7 +6,7 @@
 @import url("https://fonts.googleapis.com/css2?family=Cairo:wght@400;700&display=swap");
 @import "tw-animate-css";
 :root {
-  --main-landing: rgb(105 80 232 / 1);
+  --main-landing: #6950e8;
   --background: #fdfdff;
   --background-input: #fdfdff;
   --main-color: #111827;
@@ -42,7 +42,12 @@ input::placeholder {
 body {
   background-color: var(--background) !important;
 }
-
+.dartText {
+  color: var(--text) !important;
+}
+.greyText {
+  color: var(--grey-color) !important;
+}
 /* 
 Cuostme
 */
@@ -69,7 +74,7 @@ Cuostme
   font-size: 14px;
 }
 .grey-des {
-  color: var(--text);
+  color: var(--grey-color);
 }
 .link-custom {
   text-decoration: none;
@@ -95,12 +100,21 @@ svg {
   width: 24px;
   height: 24px;
 }
-.flex_one {
-  flex: 1 !important;
+@media (min-width: 991.98px) {
+  .flex_one {
+    /* flex: 1 !important; */
+    width: calc(25% - 0.5rem) !important;
+  }
+  .flex_two {
+    /* flex: 2 !important; */
+    width: calc(75% - 0.5rem) !important;
+  }
+  .flex_three {
+    /* flex: 2 !important; */
+    width: calc(50% - 0.5rem) !important;
+  }
 }
-.flex2 {
-  flex: 2;
-}
+
 /*
 Layout 
 */
@@ -118,7 +132,7 @@ Layout
 .all_links .nav_link a,
 .dropdown_menu {
   text-decoration: none;
-  color: var(--text);
+  color: var(--grey-color);
   display: flex;
   gap: 10px;
   padding: 10px 8px;
@@ -134,7 +148,7 @@ Layout
 .all_links .nav_link a svg,
 .dropdown_menu svg {
   width: 20px;
-  fill: var(--text);
+  fill: var(--grey-color);
   transition: all 0.5s ease-in;
 }
 .all_links .nav_link a:hover svg,
@@ -263,7 +277,7 @@ Home Page
   }
 }
 .name_data {
-  color: var(--text);
+  color: var(--grey-color);
 }
 .count-data {
   cursor: pointer;
@@ -368,7 +382,14 @@ Home Page
 }
 
 .MuiTableCell-root.table-head-cell {
-  text-align: center;
+  text-align: start;
+  font-weight: bold;
+  font-size: 12px;
+  color: var(--grey-color);
+  text-transform: uppercase;
+}
+.MuiTableCell-root.table-head {
+  text-align: start;
   font-weight: bold;
   font-size: 12px;
   color: var(--grey-color);

@@ -83,6 +83,19 @@
   "Complete_Rates": "Complete Rates",
   "Sales_by_Country" : "Sales by Country",
   "Top_Countries": "Top 7 Countries",
-  "Session_by_browser": "Session by browser"
+  "Session_by_browser": "Session by browser",
+  "Top_performing_pages" :"Top performing pages",
+  "Counted_in_Millions":"Counted in Millions",
+  "clicks" : "clicks",
+  "views" : "views",
+  "keywords": "keywords",
+  "admin_dashboard": "Admin Dashboard",
+  "top_admin_dashboard": "Top Admin Dashboard",
+  "top_Queries": "Top Queries",
+  "admin_panel": "Admin Panel",
+  "analytics_dashboard": "Analytics Dashboard",
+  "minimal_dashboard": "Minimal Dashboard",
+  "clean_ui_template": "Clean UI Template",
+  "logistics_dashboard" : "Logistics Dashboard"
 
 }
