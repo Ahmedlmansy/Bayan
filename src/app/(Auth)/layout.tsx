@@ -1,17 +1,12 @@
 "use client";
 
-import { useEffect, useState } from "react";
+import { ReactNode } from "react";
 import { ThemeProvider } from "next-themes";
-import I18nProvider from "./I18nProvider";
-import Sidebar from "./Sidebar";
-import Header from "./Header";
+import I18nProvider from "@/components/I18nProvider";
+import { useEffect, useState } from "react";
 import i18n from "@/app/(main)/i18n";
 
-export default function MainLayout({
-  children,
-}: {
-  children: React.ReactNode;
-}) {
+export default function AuthLayout({ children }: { children: ReactNode }) {
   const [mounted, setMounted] = useState(false);
 
   useEffect(() => {
@@ -29,17 +24,7 @@ export default function MainLayout({
   return (
     <I18nProvider>
       <ThemeProvider attribute="data-theme" defaultTheme="light">
-        <div className="row m-0">
-          <div className="col-lg-3 d-lg-block d-none">
-            <Sidebar />
-          </div>
-          <div className="col-lg-9 col-md-12 col-sm-12">
-            <header>
-              <Header />
-            </header>
-            {children}
-          </div>
-        </div>
+        <main>{children}</main>
       </ThemeProvider>
     </I18nProvider>
   );

@@ -1,4 +1,5 @@
-import "./(main)/styles/globals.css";
+import MainLayout from "@/components/MainLayout";
+import "./styles/globals.css";
 import "bootstrap/dist/css/bootstrap.min.css";
 
 export const metadata = {
@@ -14,9 +15,5 @@ export default function RootLayout({
 }: {
   children: React.ReactNode;
 }) {
-  return (
-    <html suppressHydrationWarning>
-      <body>{children}</body>
-    </html>
-  );
+  return <MainLayout> {children} </MainLayout>;
 }

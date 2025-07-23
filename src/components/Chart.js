@@ -16,7 +16,7 @@ const Chart = dynamic(() => import("react-apexcharts"), {
 
 const SimpleApexChart = ({ type, series, options, height = 350 }) => {
   if (!series || !Array.isArray(series) || series.length === 0) {
-    return <div className="text-center p-4">لا توجد بيانات لعرضها</div>;
+    return <div className="text-center p-4">No data avi</div>;
   }
 
   return (
