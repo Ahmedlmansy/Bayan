@@ -1,15 +1,14 @@
-"ues client";
 import React from "react";
-import SimpleApexChart from "./Chart";
+import SimpleApexChart from "../Chart";
 import { useTranslation } from "react-i18next";
 
-export default function CompletedGoals() {
+export default function LiveOnlineUser() {
   const { t } = useTranslation("common");
   const areaChartData = {
     series: [
       {
-        name: t("Completed_Goals"),
-        data: [70, 60, 90, 80, 100, 70, 80],
+        name: "Live Users",
+        data: [20, 35, 47, 40, 45, 30, 25],
       },
     ],
     options: {
@@ -43,7 +42,7 @@ export default function CompletedGoals() {
         },
       },
       dataLabels: {
-        enabled: false,
+        enabled: true,
         formatter: function (val: number) {
           return val.toString();
         },
@@ -100,13 +99,14 @@ export default function CompletedGoals() {
       },
     },
   };
+
   return (
-    <div>
+    <div className="">
       <SimpleApexChart
         type="bar"
         series={areaChartData.series}
         options={areaChartData.options}
-        height={150}
+        height={280}
       />
     </div>
   );

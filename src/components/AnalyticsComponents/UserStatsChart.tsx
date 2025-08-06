@@ -1,5 +1,5 @@
 import React, { useEffect, useState } from "react";
-import SimpleApexChart from "./Chart";
+import SimpleApexChart from "../Chart";
 import { CircularProgress } from "@mui/material";
 import { useTranslation } from "react-i18next";
 

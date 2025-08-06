@@ -42,7 +42,7 @@ input::placeholder {
 body {
   background-color: var(--background) !important;
 }
-.dartText {
+.darkText {
   color: var(--text) !important;
 }
 .greyText {
@@ -100,19 +100,51 @@ svg {
   width: 24px;
   height: 24px;
 }
+.textRTL {
+  text-align: start;
+}
 @media (min-width: 991.98px) {
   .flex_one {
-    /* flex: 1 !important; */
-    width: calc(25% - 0.5rem) !important;
+    width: calc(25% - 0.8rem) !important;
   }
   .flex_two {
-    /* flex: 2 !important; */
     width: calc(75% - 0.5rem) !important;
   }
   .flex_three {
-    /* flex: 2 !important; */
     width: calc(50% - 0.5rem) !important;
   }
+}
+@media (min-width: 768px) and (max-width: 991.98px) {
+  .mdflex {
+    width: calc(50% - 0.5rem) !important;
+  }
+}
+
+.high,
+.low {
+  margin: 0;
+  font-size: 12px;
+  font-weight: 500;
+}
+.high {
+  color: #11b881;
+}
+.backHigh {
+  background-color: var(--backHigh);
+  border-radius: 10px;
+  padding: 2px 4px;
+}
+.low {
+  color: #ef4770;
+}
+.backLow {
+  background-color: var(--backLow);
+  border-radius: 10px;
+  padding: 2px 4px;
+}
+.dollar_sign {
+  font-size: 16px;
+  color: var(--grey-color);
 }
 
 /*
@@ -282,28 +314,7 @@ Home Page
 .count-data {
   cursor: pointer;
 }
-.high,
-.low {
-  margin: 0;
-  font-size: 12px;
-  font-weight: 500;
-}
-.high {
-  color: #11b881;
-}
-.backHigh {
-  background-color: var(--backHigh);
-  border-radius: 10px;
-  padding: 2px 4px;
-}
-.low {
-  color: #ef4770;
-}
-.backLow {
-  background-color: var(--backLow);
-  border-radius: 10px;
-  padding: 2px 4px;
-}
+
 .active-data {
   background-color: var(--grey-hover);
   border-radius: 10px;
@@ -399,7 +410,7 @@ Home Page
   font-size: 13px;
   color: var(--grey-color);
   padding: 12px 16px;
-  text-align: center;
+  text-align: start;
   border-bottom: 1px #ccc solid !important;
 }
 
@@ -452,4 +463,64 @@ Home Page
 .rsm-svg {
   width: 100% !important;
   height: 100% !important;
+}
+
+/*
+  Ecommerce Dashborad
+*/
+.cardEcommerce {
+  display: flex;
+  justify-content: space-between;
+  flex-direction: column;
+  height: 220px;
+}
+.allRating {
+  padding: 20px;
+  margin-top: 10px;
+  background-color: var(--grey-hover);
+  border-radius: 5px;
+}
+.allRating h2 {
+  font-weight: 600;
+  font-size: 24px;
+  color: var(--main-color);
+}
+.allRating p {
+  color: var(--grey-color);
+  font-size: 14px;
+}
+
+.countStar {
+  min-width: 75px;
+}
+.statusOrders {
+  padding: 5px 10px;
+  border-radius: 4px;
+}
+.statusOrders.pending {
+  background-color: #fef3c7;
+  color: #ca8a04;
+}
+.statusOrders.shipped {
+  background-color: #e3fdeb;
+  color: #0c9e80;
+}
+.statusOrders.confirmed {
+  background-color: #f4f1fe;
+  color: var(--main-landing);
+}
+.statusOrders.rejected {
+  background-color: #fef1f4;
+  color: #eb194c;
+}
+.selerIcon {
+  position: relative;
+}
+.flagIcon {
+  position: absolute;
+  top: 25px;
+  right: -5px;
+  width: 20px;
+  height: 20px;
+  border-radius: 50%;
 }

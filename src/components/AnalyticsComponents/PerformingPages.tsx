@@ -76,11 +76,11 @@ export default function PerformingPages() {
           <TableBody>
             {data.pages.map((row) => (
               <TableRow key={row.url}>
-                <TableCell className="dartText table-head ">
+                <TableCell className="darkText table-head ">
                   {row.url}
                 </TableCell>
                 <TableCell className="table-head-cell">
-                  <div className="table-head-cell  my-2 dartText">
+                  <div className="table-head-cell  my-2 darkText">
                     <p className="m-0">
                       {row.clicks}{" "}
                       <span className={`${row.clicksChange.trend} m-2`}>

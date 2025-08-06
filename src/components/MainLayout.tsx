@@ -30,10 +30,10 @@ export default function MainLayout({
     <I18nProvider>
       <ThemeProvider attribute="data-theme" defaultTheme="light">
         <div className="row m-0">
-          <div className="col-lg-3 d-lg-block d-none">
+          <div className="col-xl-2 d-xl-block d-none">
             <Sidebar />
           </div>
-          <div className="col-lg-9 col-md-12 col-sm-12">
+          <div className="col-lg-12 col-xl-10 col-md-12 col-sm-12">
             <header>
               <Header />
             </header>

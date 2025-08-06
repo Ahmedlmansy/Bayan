@@ -1,17 +1,17 @@
 "use client";
 
 import React from "react";
-import UserStatsChart from "@/components/UserStatsChart";
-import LiveOnlineUser from "@/components/LiveOnlineUser";
+import UserStatsChart from "@/components/AnalyticsComponents/UserStatsChart";
+import LiveOnlineUser from "@/components/AnalyticsComponents/LiveOnlineUser";
 import { useTranslation } from "react-i18next";
-import SocialTable from "@/components/SocialTable";
-import DonutSession from "@/components/DonutSession";
-import CompletedGoals from "@/components/completedGoals";
-import CompletedRates from "@/components/CompletedRates";
-import CountryChart from "@/components/CountryChart";
-import WorldMap from "@/components/MapComponet";
-import PerformingPages from "@/components/PerformingPages";
-import TopQueries from "@/components/TopQueries";
+import SocialTable from "@/components/AnalyticsComponents/SocialTable";
+import DonutSession from "@/components/AnalyticsComponents/DonutSession";
+import CompletedRates from "@/components/AnalyticsComponents/CompletedRates";
+import CountryChart from "@/components/AnalyticsComponents/CountryChart";
+import WorldMap from "@/components/AnalyticsComponents/MapComponet";
+import PerformingPages from "@/components/AnalyticsComponents/PerformingPages";
+import TopQueries from "@/components/AnalyticsComponents/TopQueries";
+import CompletedGoals from "@/components/AnalyticsComponents/CompletedGoals";
 
 export default function Home() {
   const { t } = useTranslation("common");
@@ -29,7 +29,7 @@ export default function Home() {
           <p className="h3-landing mb-3">382</p>
           <p>
             {t("page_views")}{" "}
-            <span className="fw-bold dartText ">/{t("second")}</span>
+            <span className="fw-bold darkText ">/{t("second")}</span>
           </p>
         </div>
         <LiveOnlineUser />

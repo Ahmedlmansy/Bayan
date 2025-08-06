@@ -1,5 +1,5 @@
 import React from "react";
-import SimpleApexChart from "./Chart";
+import SimpleApexChart from "../Chart";
 import Image from "next/image";
 import { useTranslation } from "react-i18next";
 export default function DonutSession() {
@@ -8,19 +8,22 @@ export default function DonutSession() {
     series: [60, 10, 30],
     options: {
       labels: ["Chrome", "Opera Mini", "Mozilla"],
+      chart: {
+        type: "donut",
+        width: 100, // تحديد العرض
+        height: 100, // تحديد الارتفاع
+      },
       plotOptions: {
         pie: {
           donut: {
-            size: "65%",
+            size: "75%",
           },
         },
       },
       legend: {
         show: false,
       },
-      chart: {
-        type: "donut",
-      },
+
       dataLabels: {
         enabled: false,
       },
@@ -29,7 +32,7 @@ export default function DonutSession() {
           breakpoint: 480,
           options: {
             chart: {
-              width: 200,
+              width: 150,
             },
             legend: {
               position: "bottom",

@@ -1,14 +1,14 @@
 import React from "react";
-import SimpleApexChart from "./Chart";
-import { useTranslation } from "react-i18next";
 
-export default function LiveOnlineUser() {
+import SimpleApexChart from "@/components/Chart";
+import { useTranslation } from "react-i18next";
+export default function AverageDailySales() {
   const { t } = useTranslation("common");
   const areaChartData = {
     series: [
       {
-        name: "Live Users",
-        data: [20, 35, 47, 40, 45, 30, 25],
+        name: t("Average_Daily_Sales"),
+        data: [40, 60, 80, 100, 80, 60, 40],
       },
     ],
     options: {
@@ -30,6 +30,9 @@ export default function LiveOnlineUser() {
       chart: {
         height: 350,
         type: "bar",
+        toolbar: {
+          show: false,
+        },
       },
       plotOptions: {
         bar: {
@@ -42,7 +45,7 @@ export default function LiveOnlineUser() {
         },
       },
       dataLabels: {
-        enabled: true,
+        enabled: false,
         formatter: function (val: number) {
           return val.toString();
         },
@@ -99,15 +102,23 @@ export default function LiveOnlineUser() {
       },
     },
   };
-
   return (
-    <div className="">
-      <SimpleApexChart
-        type="bar"
-        series={areaChartData.series}
-        options={areaChartData.options}
-        height={350}
-      />
+    <div className="cardEcommerce">
+      <div className="p-description">
+        <p className="h2-landing m-0 darkText">
+          <span className="dollar_sign">$</span>
+          51,312 <span className="backHigh high">+2.1%</span>{" "}
+        </p>
+        <p className="m-0 p-description grey-des">{t("Average_Daily_Sales")}</p>
+      </div>
+      <div className="">
+        <SimpleApexChart
+          type="bar"
+          series={areaChartData.series}
+          options={areaChartData.options}
+          height={120}
+        />
+      </div>
     </div>
   );
 }

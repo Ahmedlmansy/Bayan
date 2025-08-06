@@ -13,7 +13,6 @@ export default function Sidebar() {
   }, []);
   const path = usePathname();
   const isActive = path.split("/")[1];
-  console.log(isActive);
   if (!mounted) {
     return (
       <div className="lan icon">
@@ -30,7 +29,7 @@ export default function Sidebar() {
           height: "100vh",
           position: "fixed",
           overflowY: "scroll",
-          width: "23%",
+          width: "16.5%",
         }}
       >
         <div className="logo_sidebar">

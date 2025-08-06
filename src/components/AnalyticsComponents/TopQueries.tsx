@@ -69,7 +69,7 @@ export default function TopQueries() {
               <TableRow key={row.keyword}>
                 <TableCell className="table-head ">{row.keyword}</TableCell>
                 <TableCell className="table-head-cell">
-                  <div className="table-head-cell d-flex dartText my-2 align-items-center gap-2">
+                  <div className="table-head-cell d-flex darkText my-2 align-items-center gap-2">
                     <p className="col-4 m-0">{row.clicks}</p>
                     <LinearProgress
                       className="col-8"

@@ -16,7 +16,7 @@ export default function DrawerSaidbar() {
   };
   return (
     <div className="iconOpen col-2 icon" onClick={() => toggleDrawer(true)}>
-      <svg viewBox="0 0 24 24" className="d-lg-none d-block">
+      <svg viewBox="0 0 24 24" className="d-xl-none d-block">
         <path
           fill="currentColor"
           d="M15.28 4.5H4.72C3.772 4.5 3 5.06 3 5.75S3.772 7 4.72 7h10.56C16.228 7 17 6.44 17 5.75s-.772-1.25-1.72-1.25Z"

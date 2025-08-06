@@ -1,13 +1,12 @@
 import React from "react";
-import SimpleApexChart from "./Chart";
-import { useTranslation } from "react-i18next";
-export default function CompletedRates() {
-  const { t } = useTranslation("common");
+import SimpleApexChart from "../Chart";
+
+export default function CountryChart() {
   const areaChartData = {
     series: [
       {
-        name: t("Complete_Rates"),
-        data: [70, 60, 90, 80, 100, 70, 80],
+        name: "Completed Retes ",
+        data: [60, 40, 80, 60, 90, 70, 80],
       },
     ],
     options: {
@@ -15,13 +14,13 @@ export default function CompletedRates() {
         show: false,
       },
       colors: [
-        "#33BE94",
+        "#6950e8",
         "#E7EAED",
-        "#33BE94",
+        "#6950e8",
         "#E7EAED",
-        "#33BE94",
+        "#6950e8",
         "#E7EAED",
-        "#33BE94",
+        "#6950e8",
       ],
       grid: {
         show: false,
@@ -47,24 +46,16 @@ export default function CompletedRates() {
         },
         offsetY: -20,
         style: {
-          fontSize: "12px",
+          fontSize: "16px",
           colors: ["#304758"],
         },
       },
       xaxis: {
         labels: {
-          show: false,
+          show: true,
         },
         show: false,
-        categories: [
-          t("days.sunday"),
-          t("days.monday"),
-          t("days.tuesday"),
-          t("days.wednesday"),
-          t("days.thursday"),
-          t("days.friday"),
-          t("days.saturday"),
-        ],
+        categories: ["AUS", "USA", "RSA", "BRA", "JAP", "UAE", "THI"],
         position: "bottom",
         axisBorder: {
           show: false,
@@ -104,7 +95,7 @@ export default function CompletedRates() {
         type="bar"
         series={areaChartData.series}
         options={areaChartData.options}
-        height={150}
+        height={400}
       />
     </div>
   );

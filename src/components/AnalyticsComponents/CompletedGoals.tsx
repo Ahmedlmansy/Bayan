@@ -1,12 +1,15 @@
+"ues client";
 import React from "react";
-import SimpleApexChart from "./Chart";
+import SimpleApexChart from "../Chart";
+import { useTranslation } from "react-i18next";
 
-export default function CountryChart() {
+export default function CompletedGoals() {
+  const { t } = useTranslation("common");
   const areaChartData = {
     series: [
       {
-        name: "Completed Retes ",
-        data: [60, 40, 80, 60, 90, 70, 80],
+        name: t("Completed_Goals"),
+        data: [70, 60, 90, 80, 100, 70, 80],
       },
     ],
     options: {
@@ -46,16 +49,24 @@ export default function CountryChart() {
         },
         offsetY: -20,
         style: {
-          fontSize: "16px",
+          fontSize: "12px",
           colors: ["#304758"],
         },
       },
       xaxis: {
         labels: {
-          show: true,
+          show: false,
         },
         show: false,
-        categories: ["AUS", "USA", "RSA", "BRA", "JAP", "UAE", "THI"],
+        categories: [
+          t("days.sunday"),
+          t("days.monday"),
+          t("days.tuesday"),
+          t("days.wednesday"),
+          t("days.thursday"),
+          t("days.friday"),
+          t("days.saturday"),
+        ],
         position: "bottom",
         axisBorder: {
           show: false,
@@ -95,7 +106,7 @@ export default function CountryChart() {
         type="bar"
         series={areaChartData.series}
         options={areaChartData.options}
-        height={400}
+        height={150}
       />
     </div>
   );
