@@ -113,6 +113,9 @@ svg {
   .flex_three {
     width: calc(50% - 0.5rem) !important;
   }
+  .flex_four {
+    width: calc(33% - 0.5rem) !important;
+  }
 }
 @media (min-width: 768px) and (max-width: 991.98px) {
   .mdflex {
@@ -523,4 +526,45 @@ Home Page
   width: 20px;
   height: 20px;
   border-radius: 50%;
+}
+
+/*
+  - CRM Page
+*/
+.centerPublicView {
+  border-right: 1px #ccc dashed;
+  border-left: 1px #ccc dashed;
+}
+@media (max-width: 991.98px) {
+  .centerPublicView {
+    border-right: none;
+    border-left: none;
+    border-top: 1px #ccc dashed;
+    border-bottom: 1px #ccc dashed;
+  }
+}
+
+.statusLeads {
+  padding: 5px 10px;
+  border-radius: 4px;
+}
+.statusLeads.pending {
+  background-color: #fef3c7;
+  color: #ca8a04;
+}
+.statusLeads.Won-Lead {
+  background-color: #e3fdeb;
+  color: #0c9e80;
+}
+/* .statusLeads.confirmed {
+  background-color: #f4f1fe;
+  color: var(--main-landing);
+} */
+.statusLeads.stuck {
+  background-color: #fef1f4;
+  color: #eb194c;
+}
+.countCall {
+  font-size: 20px;
+  color: var(--main-landing);
 }

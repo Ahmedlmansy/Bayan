@@ -76,7 +76,10 @@ function SocialTable() {
                   <div
                     style={{ display: "flex", alignItems: "center", gap: 10 }}
                   >
-                    <Avatar src={`/images/${row.icon}.svg`} alt={row.source} />
+                    <Avatar
+                      src={`/images/Social/${row.icon}.svg`}
+                      alt={row.source}
+                    />
                     <div>
                       <div className="source-name">{row.source}</div>
                       <div className="source-category">{row.category}</div>

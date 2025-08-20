@@ -45,7 +45,7 @@ export default function DonutSession() {
   const browserSessions = [
     {
       name: "Chrome",
-      icon: "/images/chrome.svg",
+      icon: "/images/Browser/chrome.svg",
       percentage: 60,
       change: "3.19%",
       changeType: "high",
@@ -53,7 +53,7 @@ export default function DonutSession() {
     },
     {
       name: "Opera Mini",
-      icon: "/images/opera.svg",
+      icon: "/images/Browser/opera.svg",
       percentage: 10,
       change: "1.98%",
       changeType: "low",
@@ -61,7 +61,7 @@ export default function DonutSession() {
     },
     {
       name: "Mozilla",
-      icon: "/images/mozilla.svg",
+      icon: "/images/Browser/mozilla.svg",
       percentage: 30,
       change: "2.23%",
       changeType: "high",
@@ -74,7 +74,15 @@ export default function DonutSession() {
       <div className="donut-session">
         <p className="h3-landing mb-1">{t("Session_by_browser")}</p>
       </div>
-      <div className="donut-chart">
+      <div
+        className="donut-chart"
+        style={{
+          width: "150px",
+          display: "flex",
+          justifyContent: "center",
+          margin: "0 auto",
+        }}
+      >
         <SimpleApexChart
           options={areaChartData.options}
           series={areaChartData.series}
