@@ -29,7 +29,10 @@ export default function ToDoList() {
     <div>
       <p className="h4">{t("To-do_list")}</p>
       <div className="d-flex gap-2 jstify-content-center align-items-center">
-        <span style={{ width: "15%" }}> {progress}%</span>
+        <span style={{ width: "15%" }} className="darkText">
+          {" "}
+          {progress}%
+        </span>
         <LinearProgress
           variant="determinate"
           value={progress}
@@ -59,10 +62,10 @@ export default function ToDoList() {
               />
             </ListItemIcon>
             <ListItemText
+              className="darkText"
               primary={task.text}
               sx={{
                 textDecoration: task.completed ? "line-through" : "none",
-                color: task.completed ? "gray" : "inherit",
               }}
             />
           </ListItem>
