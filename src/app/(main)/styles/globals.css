@@ -45,6 +45,9 @@ body {
 .darkText {
   color: var(--text) !important;
 }
+.mainText {
+  color: var(--main-landing) !important;
+}
 .greyText {
   color: var(--grey-color) !important;
 }
@@ -568,3 +571,49 @@ Home Page
   font-size: 20px;
   color: var(--main-landing);
 }
+
+/* 
+  - Logistics Page
+*/
+.LastMonthShipment {
+  /* background-color: #fff; */
+  box-shadow: 1px 1px 20px 10px var(--grey-hover);
+
+  position: relative;
+  border-radius: 10px;
+}
+.dataShipment {
+  position: relative;
+  z-index: 2;
+  top: -24px;
+}
+.chartShipment {
+  background-color: var(--main-landing);
+  border-radius: 10px 10px 0 0;
+}
+.cardShipment {
+  padding: 10px;
+  height: 180px;
+  background-color: var(--grey-hover);
+  border-radius: 10px;
+  display: flex;
+  justify-content: space-between;
+  flex-direction: column;
+}
+.borderRight {
+  border-right: 1px #ccc dashed;
+}
+@media (max-width: 991.98px) {
+  .borderRight {
+    border-right: none;
+    border-left: none;
+    /* border-top: 1px #ccc dashed; */
+    border-bottom: 1px #ccc dashed;
+  }
+}
+/* @media (max-width: 575.98px) {
+  .quickGude{
+    flex-direction: column;
+  }
+  
+} */
