@@ -617,3 +617,60 @@ Home Page
   }
   
 } */
+
+/*
+  Finance Page
+*/
+@media (max-width: 535px) {
+  .myBalance {
+    flex-direction: column;
+  }
+}
+.arrow {
+  width: 40px;
+  height: 40px;
+  background-color: var(--grey-hover);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border-radius: 5px;
+}
+.allActivity {
+  height: 300px;
+  position: relative;
+  display: flex;
+  justify-content: center;
+}
+.allActivity .topActive,
+.allActivity .secondActive,
+.allActivity .thirdActive {
+  border-radius: 50%;
+  position: absolute;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.allActivity .topActive {
+  width: 180px;
+  height: 180px;
+  background-color: var(--main-landing);
+  color: #fff;
+  z-index: 10;
+  top: 10px;
+}
+.allActivity .secondActive {
+  width: 120px;
+  height: 120px;
+  background-color: var(--grey-hover);
+  color: var(--text);
+  z-index: 11;
+  top: 120px;
+}
+.allActivity .thirdActive {
+  width: 90px;
+  height: 90px;
+  background-color: var(--main-color);
+  color: #fff;
+  z-index: 12;
+  top: 210px;
+}
