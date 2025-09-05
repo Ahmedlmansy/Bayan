@@ -1,4 +1,4 @@
-import "./(Dashboard)/styles/globals.css";
+import "./(main)/styles/globals.css";
 import "bootstrap/dist/css/bootstrap.min.css";
 
 export const metadata = {
