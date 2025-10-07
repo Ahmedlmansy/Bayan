@@ -51,6 +51,13 @@ body {
 .greyText {
   color: var(--grey-color) !important;
 }
+.successText {
+  color: #0c9e80;
+}
+.warningText {
+  color: #db7e24 !important;
+}
+
 /* 
 Cuostme
 */
@@ -66,7 +73,7 @@ Cuostme
 .h3-landing {
   font-size: 20px;
   font-weight: bold;
-  color: var(--main-color) !important;
+  color: var(--main-color);
 }
 .h4 {
   font-size: 14px;
@@ -673,4 +680,102 @@ Home Page
   color: #fff;
   z-index: 12;
   top: 210px;
+}
+/*
+  - Profile Page
+*/
+.publicInfo {
+  box-shadow: 1px 1px 20px 10px var(--grey-hover);
+  border-radius: 12px;
+}
+.coverPh img {
+  width: 100%;
+  border-top-right-radius: 12px;
+  border-top-left-radius: 12px;
+}
+.ph-name img {
+  border: 3px solid var(--main-landing);
+  border-radius: 50%;
+}
+.statistics div {
+  padding: 16px 28px;
+  border-radius: 12px;
+  border: 1px solid #e5e7eb;
+}
+@media (max-width: 575.98px) {
+  .statistics div {
+    padding: 10px 15px;
+  }
+}
+.publicInfo .info {
+  position: relative;
+  top: -50px;
+}
+@media (max-width: 660px) {
+  [aria-label*="tabs"] {
+    overflow-x: scroll !important;
+  }
+}
+[aria-label*="tabs"] button {
+  text-transform: inherit;
+  color: var(--grey-color);
+}
+.skill {
+  border-radius: 10px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  background-color: var(--grey-hover);
+}
+
+.skill span {
+  background-color: #e5e7eb;
+  padding: 12px;
+  border-top-right-radius: 10px;
+  border-bottom-right-radius: 10px;
+}
+.members {
+  padding: 8px 15px;
+  background-color: var(--grey-hover);
+  border-radius: 12px;
+  color: var(--text);
+  font-weight: 600;
+}
+.hoppy {
+  background-color: var(--grey-hover);
+  display: inline-block;
+  border-radius: 10px;
+}
+.ph-portolio img {
+  border-radius: 10px;
+}
+.ph-portolio .datePortolio {
+  position: absolute;
+  top: 10px;
+  right: 10px;
+  background-color: var(--main-landing);
+  color: #fff;
+  padding: 6px 12px;
+  border-radius: 10px;
+  text-align: center;
+}
+.type {
+  color: #fff;
+  background-color: var(--main-landing);
+  border-radius: 5px;
+  font-size: 14px;
+}
+.iconsSaved div {
+  cursor: pointer;
+  border: 1px solid var(--grey-hover);
+  padding: 5px;
+}
+.iconsSaved div svg {
+  color: var(--main-landing);
+}
+.imgConnections {
+  border-radius: 50%;
+  width: 40px;
+  height: 40px;
+  object-fit: cover;
 }
