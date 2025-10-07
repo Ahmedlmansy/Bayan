@@ -56,7 +56,7 @@ export default function Header() {
           </div>
           <div className="profile_icon icon">
             <Image
-              src={"/images/profile.jpg"}
+              src={"/images/Avatar/profile.jpg"}
               width={20}
               height={20}
               alt=""

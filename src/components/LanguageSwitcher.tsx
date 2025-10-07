@@ -39,8 +39,8 @@ export default function LanguageSwitcher() {
       <Image
         src={
           currentLanguage === "en"
-            ? "/images/saudi-arabia.jpg"
-            : "/images/USA.png"
+            ? "/images/flags/saudi-arabia.jpg"
+            : "/images/flags/us.png"
         }
         alt="Language flag"
         width={20}
