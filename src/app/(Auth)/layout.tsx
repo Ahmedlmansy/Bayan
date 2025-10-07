@@ -4,7 +4,7 @@ import { ReactNode } from "react";
 import { ThemeProvider } from "next-themes";
 import I18nProvider from "@/components/I18nProvider";
 import { useEffect, useState } from "react";
-import i18n from "@/app/(Dashboard)/i18n";
+import i18n from "@/app/(main)/i18n";
 
 export default function AuthLayout({ children }: { children: ReactNode }) {
   const [mounted, setMounted] = useState(false);
