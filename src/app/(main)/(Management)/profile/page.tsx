@@ -7,6 +7,7 @@ import LocationOnIcon from "@mui/icons-material/LocationOn";
 import CalendarMonthIcon from "@mui/icons-material/CalendarMonth";
 import { Box, Tab, Tabs } from "@mui/material";
 import Overview from "@/components/ProfileComponents/Overview";
+import Projects from "@/components/ProfileComponents/Projects";
 
 interface TabPanelProps {
   children?: React.ReactNode;
@@ -117,7 +118,7 @@ export default function Profile() {
               <Overview />
             </CustomTabPanel>
             <CustomTabPanel value={value} index={1}>
-              Projects
+              <Projects />
             </CustomTabPanel>
             <CustomTabPanel value={value} index={2}>
               Compaigns
