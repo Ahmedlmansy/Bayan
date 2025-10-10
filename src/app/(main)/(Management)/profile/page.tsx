@@ -9,6 +9,7 @@ import { Box, Tab, Tabs } from "@mui/material";
 import Overview from "@/components/ProfileComponents/Overview";
 import Projects from "@/components/ProfileComponents/Projects";
 import Compaigns from "@/components/ProfileComponents/Compaigns";
+import Documents from "@/components/ProfileComponents/Documents";
 
 interface TabPanelProps {
   children?: React.ReactNode;
@@ -125,7 +126,7 @@ export default function Profile() {
               <Compaigns />
             </CustomTabPanel>
             <CustomTabPanel value={value} index={3}>
-              Documents
+              <Documents />
             </CustomTabPanel>
             <CustomTabPanel value={value} index={4}>
               Connections
