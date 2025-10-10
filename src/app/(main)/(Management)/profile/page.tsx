@@ -8,6 +8,7 @@ import CalendarMonthIcon from "@mui/icons-material/CalendarMonth";
 import { Box, Tab, Tabs } from "@mui/material";
 import Overview from "@/components/ProfileComponents/Overview";
 import Projects from "@/components/ProfileComponents/Projects";
+import Compaigns from "@/components/ProfileComponents/Compaigns";
 
 interface TabPanelProps {
   children?: React.ReactNode;
@@ -121,7 +122,7 @@ export default function Profile() {
               <Projects />
             </CustomTabPanel>
             <CustomTabPanel value={value} index={2}>
-              Compaigns
+              <Compaigns />
             </CustomTabPanel>
             <CustomTabPanel value={value} index={3}>
               Documents

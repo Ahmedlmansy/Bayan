@@ -375,5 +375,12 @@
   "desProject_five": "تطبيق تواصل اجتماعي متكامل يحتوي على محادثات فورية، ملفات تعريف للمستخدمين، وتفاعل مع المنشورات باستخدام تقنية MERN.",
   "Freelance_Management_System": "نظام إدارة العمل الحر",
   "desProject_six": "نظام يربط بين العملاء والمستقلين، يتضمن متابعة المشاريع والمدفوعات والتقارير الخاصة بالأداء.",
-  "Days_Left" : "الأيام المتبقية"
+  "Days_Left" : "الأيام المتبقية",
+  "Twitch_Post" : "منشور Twitch", 
+"Pinterest_Posts": "منشورات Pinterest", 
+"X_Followers" : "متابعو X", 
+"Reddit_Awards" : "جوائز Reddit", 
+"YouTube_Subscribers" : "مشتركو YouTube", 
+"Subscriber_growth" : "نمو المشتركين"
+
 }

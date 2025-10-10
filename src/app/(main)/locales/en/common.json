@@ -376,7 +376,13 @@
   "desProject_five" : "A full-stack social media app with real-time chat, user profiles, and post interactions using MERN stack.",
   "Freelance_Management_System" : "Freelance Management System",
   "desProject_six" : "A system to connect clients with freelancers, featuring project tracking, payments, and performance reports.",
-  "Days_Left" : "Days Left"
+  "Days_Left" : "Days Left",
+  "Twitch_Post" : "Twitch Post",
+  "Pinterest_Posts": "Pinterest Posts",
+  "X_Followers" : "X Followers",
+  "Reddit_Awards" : "Reddit Awards",
+  "YouTube_Subscribers" : "YouTube Subscribers",
+  "Subscriber_growth" : "Subscriber growth"
 
   
 }
