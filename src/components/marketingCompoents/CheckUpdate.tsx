@@ -15,7 +15,7 @@ export default function CheckUpdate() {
           height={200}
         />
         <div className="">
-          <h6 className="my-2 ">{t("We_have_big_update_for_you")}</h6>
+          <h6 className="darkText my-2">{t("We_have_big_update_for_you")}</h6>
         </div>
         <Button
           variant="contained"

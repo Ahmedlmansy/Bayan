@@ -88,7 +88,7 @@ export default function QuickTransfer() {
                 "&:hover": { borderColor: "#888" },
               }}
             >
-              {t("Save_Draft")}
+              {t("Connected")}
             </Button>
           </Box>
         </Box>

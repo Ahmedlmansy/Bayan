@@ -1,3 +1,4 @@
+import React from "react";
 import {
   Avatar,
   AvatarGroup,
@@ -9,7 +10,6 @@ import {
   TableContainer,
   TableRow,
 } from "@mui/material";
-import React from "react";
 import { useTranslation } from "react-i18next";
 import AddIcon from "@mui/icons-material/Add";
 import CalendarMonthIcon from "@mui/icons-material/CalendarMonth";
@@ -436,7 +436,11 @@ export default function Overview() {
               return (
                 <div className="d-flex my-3 gap-2" key={i}>
                   <div className="imgConnections">
-                    <img src={con.img} className="w-100" />
+                    <img
+                      src={con.img}
+                      className="w-100"
+                      style={{ borderRadius: "50%" }}
+                    />
                   </div>
                   <div className="bestConnections">
                     <p className="m-0 fw-bold darkText"> {con.name}</p>
@@ -488,6 +492,7 @@ export default function Overview() {
                       fontWeight: 600,
                       margin: 0,
                     }}
+                    className="darkText"
                   >
                     {item.value}
                   </p>

@@ -53,7 +53,6 @@ export default function Documents() {
               <div className="p-3 container-chart text-center">
                 <svg
                   style={{ height: "64px", width: "64px" }}
-                  className="MuiSvgIcon-root MuiSvgIcon-fontSizeMedium css-135ln59 fill-gray-500"
                   fill="#6b7280"
                   width="64"
                   focusable="false"
