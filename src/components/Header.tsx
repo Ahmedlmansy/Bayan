@@ -5,6 +5,7 @@ import React, { useState, useEffect } from "react";
 import { useTheme } from "next-themes";
 import LanguageSwitcher from "./LanguageSwitcher";
 import DrawerSaidbar from "./DrawerSaidbar";
+import Link from "next/link";
 
 export default function Header() {
   const { theme, setTheme } = useTheme();
@@ -36,7 +37,7 @@ export default function Header() {
             </svg>
           </div>
           <LanguageSwitcher />
-          <div className="apps_service icon">
+          {/* <div className="apps_service icon">
             <svg
               focusable="false"
               aria-hidden="true"
@@ -53,17 +54,22 @@ export default function Header() {
                 fill="currentColor"
               ></path>
             </svg>
-          </div>
-          <div className="profile_icon icon">
-            <Image
-              src={"/images/Avatar/profile.jpg"}
-              width={20}
-              height={20}
-              alt=""
-              style={{
-                borderRadius: "50%",
-              }}
-            />
+          </div> */}
+          <div className="profile_icon ">
+            <Link
+              href={"/profile"}
+              className="icon d-flex align-items-center justify-content-center"
+            >
+              <Image
+                src={"/images/users/user-1.png"}
+                width={30}
+                height={30}
+                alt=""
+                style={{
+                  borderRadius: "50%",
+                }}
+              />
+            </Link>
           </div>
         </div>
       </div>

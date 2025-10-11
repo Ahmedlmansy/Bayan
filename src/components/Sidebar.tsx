@@ -28,8 +28,8 @@ export default function Sidebar() {
         style={{
           height: "100vh",
           position: "fixed",
-          overflowY: "scroll",
-          width: "16.5%",
+          // overflowY: "scroll",
+          // width: "16.5%",
         }}
       >
         <div className="logo_sidebar">
