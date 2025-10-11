@@ -226,7 +226,7 @@ export default function ShippingOrders() {
         </div>
         <div className="d-flex flex-column justify-content-between ">
           <div className="">
-            <p className="h2-landing my-1">
+            <p className="h2-landing darkText my-1">
               {" "}
               {t("Logistics_is_simple_but_not_easy")}
             </p>
