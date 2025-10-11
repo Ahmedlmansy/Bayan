@@ -382,7 +382,10 @@
   "X_Followers" : "X Followers",
   "Reddit_Awards" : "Reddit Awards",
   "YouTube_Subscribers" : "YouTube Subscribers",
-  "Subscriber_growth" : "Subscriber growth"
+  "Subscriber_growth" : "Subscriber growth",
+  "Avg_Income" : "Avg Income",
+  "Connected" : "Connected",
+  "Connect" : "Connect"
 
   
 }

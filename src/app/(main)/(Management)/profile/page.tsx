@@ -10,6 +10,8 @@ import Overview from "@/components/ProfileComponents/Overview";
 import Projects from "@/components/ProfileComponents/Projects";
 import Compaigns from "@/components/ProfileComponents/Compaigns";
 import Documents from "@/components/ProfileComponents/Documents";
+import Connections from "@/components/ProfileComponents/Connections";
+import Activity from "@/components/ProfileComponents/Activity";
 
 interface TabPanelProps {
   children?: React.ReactNode;
@@ -129,10 +131,10 @@ export default function Profile() {
               <Documents />
             </CustomTabPanel>
             <CustomTabPanel value={value} index={4}>
-              Connections
+              <Connections />
             </CustomTabPanel>
             <CustomTabPanel value={value} index={5}>
-              Activity
+              <Activity />
             </CustomTabPanel>
           </div>
         </div>

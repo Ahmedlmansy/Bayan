@@ -381,6 +381,9 @@
 "X_Followers" : "متابعو X", 
 "Reddit_Awards" : "جوائز Reddit", 
 "YouTube_Subscribers" : "مشتركو YouTube", 
-"Subscriber_growth" : "نمو المشتركين"
+"Subscriber_growth" : "نمو المشتركين",
+  "Avg_Income" : " متوسط الدخل",
+  "Connected" : "متصل", 
+  "Connect" : "اتصال"
 
 }
