@@ -177,7 +177,7 @@ export default function Compaigns() {
               <div className="container-chart p-3">
                 <div className="d-flex align-items-center gap-3 mb-3">
                   <div className="arrow">{compain.icon}</div>
-                  <span className="fw-bold">{compain.platform} </span>
+                  <span className="fw-bold darkText">{compain.platform} </span>
                 </div>
                 <div className="d-flex justify-content-between align-items-center">
                   <p className="h3-landing">{compain.amount}</p>

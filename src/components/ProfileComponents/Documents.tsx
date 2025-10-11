@@ -62,7 +62,7 @@ export default function Documents() {
                 >
                   <path d="M20,6H14.41a1,1,0,0,1-.7-.29L12.29,4.29a1,1,0,0,0-.7-.29H4A2,2,0,0,0,2,6V18a2,2,0,0,0,2,2H20a2,2,0,0,0,2-2V8A2,2,0,0,0,20,6Z"></path>
                 </svg>
-                <p className="m-0 p-description fw-bold">
+                <p className="m-0 p-description fw-bold darkText">
                   {" "}
                   {folder.folderName}{" "}
                 </p>
@@ -79,7 +79,7 @@ export default function Documents() {
               src="/images/Files/css.svg"
               style={{ height: "64px", width: "64px" }}
             />
-            <p className="m-0 p-description fw-bold"> Project CSS </p>
+            <p className="m-0 p-description fw-bold darkText"> Project CSS </p>
             <p className="m-0 p-description greyText">7 Files</p>
           </div>
         </div>
@@ -89,7 +89,7 @@ export default function Documents() {
               src="/images/Files/html.svg"
               style={{ height: "64px", width: "64px" }}
             />
-            <p className="m-0 p-description fw-bold"> Project HTML </p>
+            <p className="m-0 p-description fw-bold darkText"> Project HTML </p>
             <p className="m-0 p-description greyText">12 Files</p>
           </div>
         </div>
@@ -99,7 +99,7 @@ export default function Documents() {
               src="/images/Files/jpg.svg"
               style={{ height: "64px", width: "64px" }}
             />
-            <p className="m-0 p-description fw-bold"> Project JPG </p>
+            <p className="m-0 p-description fw-bold darkText"> Project JPG </p>
             <p className="m-0 p-description greyText">20 Files</p>
           </div>
         </div>
@@ -109,7 +109,7 @@ export default function Documents() {
               src="/images/Files/pdf.svg"
               style={{ height: "64px", width: "64px" }}
             />
-            <p className="m-0 p-description fw-bold"> Project PDF </p>
+            <p className="m-0 p-description fw-bold darkText"> Project PDF </p>
             <p className="m-0 p-description greyText">100 Files</p>
           </div>
         </div>
