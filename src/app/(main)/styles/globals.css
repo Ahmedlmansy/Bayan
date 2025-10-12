@@ -241,6 +241,7 @@ Layout
 .otherIcons {
   display: flex;
   justify-content: end;
+  align-items: center;
 }
 
 @media (max-width: 990px) {
