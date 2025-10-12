@@ -1,6 +1,6 @@
 "use client";
 
-import { useEffect, useState } from "react";
+import { ReactNode, useEffect, useState } from "react";
 import { ThemeProvider } from "next-themes";
 import { useRouter } from "next/navigation";
 import { useAuth } from "@/hooks/useAuth";
@@ -10,7 +10,7 @@ import Header from "./Header";
 import i18n from "@/app/(main)/i18n";
 import Loading from "./loading";
 
-export default function MainLayout({ children }) {
+export default function MainLayout({ children }: { children: ReactNode }) {
   const [mounted, setMounted] = useState(false);
   const { user, loading } = useAuth();
   const router = useRouter();
