@@ -12,10 +12,13 @@ import {
 } from "@mui/material";
 import { useTheme } from "next-themes";
 import { useTranslation } from "react-i18next";
+import { signInWithEmailAndPassword } from "firebase/auth";
+import { auth } from "@/lib/firebase";
+import { useAuth } from "@/hooks/useAuth";
+import { useRouter } from "next/navigation";
 
 const Login = () => {
   const { t } = useTranslation("common");
-
   const { theme } = useTheme();
   const currentTheme = theme || "light";
 
@@ -50,33 +53,41 @@ const Login = () => {
   };
 
   const [email, setEmail] = useState("");
-  const [emailError, setEmailError] = useState(false);
-  const [emailHelperText, setEmailHelperText] = useState("");
-
   const [password, setPassword] = useState("");
-  const [passwoedError, setPasswoedError] = useState(false);
-  const [passwordHelperText, setPasswordHelperText] = useState("");
+  const [error, setError] = useState("");
+  const [loading, setLoading] = useState(false);
+  const router = useRouter();
+  const { user, loading: authLoading } = useAuth();
 
-  const handleChangeEmail = (event: React.ChangeEvent<HTMLInputElement>) => {
-    setEmail(event.target.value);
-    if (event.target.value === "") {
-      setEmailError(true);
-      setEmailHelperText(t("this_field_required"));
-    } else {
-      setEmailError(false);
-      setEmailHelperText("");
+  if (authLoading) {
+    return (
+      <div className="min-h-screen flex items-center justify-center">
+        <div className="text-lg">جاري التحميل...</div>
+      </div>
+    );
+  }
+
+  if (user) {
+    router.push("/");
+    return null;
+  }
+
+  const handleLogin = async (e) => {
+    e.preventDefault();
+    setLoading(true);
+    setError("");
+
+    try {
+      await signInWithEmailAndPassword(auth, email, password);
+      router.push("/");
+    } catch (error) {
+      console.error("Login error:", error);
+      setError(error.message);
+    } finally {
+      setLoading(false);
     }
   };
-  const handleChangePassword = (event: React.ChangeEvent<HTMLInputElement>) => {
-    setPassword(event.target.value);
-    if (event.target.value === "") {
-      setPasswoedError(true);
-      setPasswordHelperText(t("this_field_required"));
-    } else {
-      setEmailError(false);
-      setEmailHelperText("");
-    }
-  };
+
   return (
     <div className="row m-0 auth-landing">
       <div className="col-lg-6 col-md-12 col-sm-12  p-3 text-light  auth-welcome">
@@ -115,18 +126,25 @@ const Login = () => {
               </p>
             </div>
             <div className="mt-4">
-              <form action="">
+              {/* تم التصحيح هنا - إضافة onSubmit الصحيحة */}
+              <form onSubmit={handleLogin}>
                 <h3 className="h3-landing">{t("login_email")}</h3>
+
+                {error && (
+                  <div className="bg-red-100 border border-red-400 text-red-700 px-4 py-3 rounded mb-3">
+                    {error}
+                  </div>
+                )}
+
                 <TextField
                   className="my-2"
                   label="Enter your work email"
                   variant="outlined"
                   value={email}
-                  onChange={handleChangeEmail}
-                  error={emailError}
-                  helperText={emailHelperText}
+                  onChange={(e) => setEmail(e.target.value)}
                   fullWidth
                   sx={styles}
+                  required
                 />
                 <TextField
                   className="my-2"
@@ -134,12 +152,11 @@ const Login = () => {
                   label="Password"
                   type="password"
                   autoComplete="current-password"
-                  value={password}
-                  onChange={handleChangePassword}
-                  error={passwoedError}
-                  helperText={passwordHelperText}
                   fullWidth
                   sx={styles}
+                  value={password}
+                  onChange={(e) => setPassword(e.target.value)}
+                  required
                 />
                 <div className="forget_remeber my-3">
                   <FormControlLabel
@@ -165,10 +182,17 @@ const Login = () => {
                 <div className="submit">
                   <Button
                     fullWidth
+                    type="submit"
+                    disabled={loading}
                     variant="contained"
-                    sx={{ backgroundColor: "rgb(105 80 232 / 1)" }}
+                    sx={{
+                      backgroundColor: "rgb(105 80 232 / 1)",
+                      "&:disabled": {
+                        backgroundColor: "rgba(105, 80, 232, 0.5)",
+                      },
+                    }}
                   >
-                    {t("sign_in")}
+                    {loading ? "جاري الدخول..." : t("sign_in")}
                   </Button>
                 </div>
               </form>
@@ -234,7 +258,7 @@ const Login = () => {
                     aria-hidden="true"
                     viewBox="0 0 24 24"
                   >
-                    <path d="M22,6.45a8,8,0,0,1-1.85,1.78c0,.18,0,.36,0,.55A12.2,12.2,0,0,1,7.78,21a12.24,12.24,0,0,1-5.45-1.26.25.25,0,0,1-.15-.23V19.4a.26.26,0,0,1,.26-.26A8.86,8.86,0,0,0,7.56,17.3a4.37,4.37,0,0,1-3.89-2.56.26.26,0,0,1,.26-.36,4,4,0,0,0,1.52-.14A4.36,4.36,0,0,1,2,10.43a.26.26,0,0,1,.36-.26,4,4,0,0,0,1.58.34A4.28,4.28,0,0,1,2.23,5.57a.54.54,0,0,1,.91-.18,12.36,12.36,0,0,0,8.41,3.88,4,4,0,0,1-.12-1,4.36,4.36,0,0,1,7.51-2.94,8.69,8.69,0,0,0,2.39-.83.17.17,0,0,1,.18,0,.17.17,0,0,1,0,.18,4.37,4.37,0,0,1-1.76,2,8.58,8.58,0,0,0,2-.48.16.16,0,0,1,.18,0A.17.17,0,0,1,22,6.45Z"></path>
+                    <path d="M22,6.45a8,8,0,0,1-1.85,1.78c0,.18,0,.36,0,.55A12.2,12.2,0,0,1,7.78,21a12.24,12.24,0,0,1-5.45-1.26.25.25,0,0,1-.15-.23V19.4a.26.26,0,0,1,.26-.26A8.86,8.86,0,0,0,7.56,17.3a4.37,4.37,0,0,1-3.89-2.56.26.26,0,0,1,.26-.36,4,4,0,0,0,1.52-.14A4.36,4.36,0,0,1,2,10.43a.26.26,0,0,1,.36-.26,4,4,0,0,0,1.58.34A4.28,4.28,0,0,1,2.23,5.57a.54.54,0,0,1,.91-.18,12.36,12.36,0,0,0,8.41,3.88,4,4,0,0,1-.12-1,4.36,4.36,0,0,1,7.51-2.94,8.69,8.69,0,0,0,2.39-.83.17.17,0,0,1,.18,0,.17.17,0,0,1,0,.18A4.37,4.37,0,0,1-1.76,2,8.58,8.58,0,0,0,2-.48.16.16,0,0,1,.18,0A.17.17,0,0,1,22,6.45Z"></path>
                   </svg>
                 </div>
               </div>
