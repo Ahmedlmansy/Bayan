@@ -69,7 +69,7 @@ const Login = () => {
     return null;
   }
 
-  const handleLogin = async (e) => {
+  const handleLogin = async (e: React.FormEvent) => {
     e.preventDefault();
     setLoading(true);
     setError("");
@@ -79,7 +79,7 @@ const Login = () => {
       router.push("/");
     } catch (error) {
       console.error("Login error:", error);
-      setError(error.message);
+      setError((error as Error).message);
     } finally {
       setLoading(false);
     }
