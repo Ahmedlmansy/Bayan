@@ -16,6 +16,7 @@ import { signInWithEmailAndPassword } from "firebase/auth";
 import { auth } from "@/lib/firebase";
 import { useAuth } from "@/hooks/useAuth";
 import { useRouter } from "next/navigation";
+import Loading from "@/components/loading";
 
 const Login = () => {
   const { t } = useTranslation("common");
@@ -60,11 +61,7 @@ const Login = () => {
   const { user, loading: authLoading } = useAuth();
 
   if (authLoading) {
-    return (
-      <div className="min-h-screen flex items-center justify-center">
-        <div className="text-lg">جاري التحميل...</div>
-      </div>
-    );
+    return <Loading />;
   }
 
   if (user) {
@@ -126,7 +123,6 @@ const Login = () => {
               </p>
             </div>
             <div className="mt-4">
-              {/* تم التصحيح هنا - إضافة onSubmit الصحيحة */}
               <form onSubmit={handleLogin}>
                 <h3 className="h3-landing">{t("login_email")}</h3>
 

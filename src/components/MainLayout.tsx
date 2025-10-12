@@ -2,17 +2,18 @@
 
 import { useEffect, useState } from "react";
 import { ThemeProvider } from "next-themes";
+import { useRouter } from "next/navigation";
+import { useAuth } from "@/hooks/useAuth";
 import I18nProvider from "./I18nProvider";
 import Sidebar from "./Sidebar";
 import Header from "./Header";
 import i18n from "@/app/(main)/i18n";
+import Loading from "./loading";
 
-export default function MainLayout({
-  children,
-}: {
-  children: React.ReactNode;
-}) {
+export default function MainLayout({ children }) {
   const [mounted, setMounted] = useState(false);
+  const { user, loading } = useAuth();
+  const router = useRouter();
 
   useEffect(() => {
     const storedLang = localStorage.getItem("i18nextLng") || "en";
@@ -22,9 +23,17 @@ export default function MainLayout({
     setMounted(true);
   }, []);
 
-  if (!mounted) {
-    return null;
+  useEffect(() => {
+    if (!loading && !user) {
+      router.push("/login");
+    }
+  }, [user, loading, router]);
+
+  if (!mounted || loading) {
+    return <Loading />;
   }
+
+  if (!user) return null;
 
   return (
     <I18nProvider>
