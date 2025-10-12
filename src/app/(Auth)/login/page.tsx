@@ -91,7 +91,7 @@ const Login = () => {
         <div className="p-5">
           <h1 className="h-landing">{t("hi_welcome")}</h1>
           <div className="my-4">
-            <h4 className="h3-landing m-0">
+            <h4 className="h3-landing text-light m-0">
               {" "}
               {t("You_are_in_a_good_company")}{" "}
             </h4>

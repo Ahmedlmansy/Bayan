@@ -85,7 +85,9 @@ export default function Register() {
           </div>
           <hr />
           <div className="my-4">
-            <h4 className="h3-landing m-0">{t("You_are_in_a_good_company")}</h4>
+            <h4 className="h3-landing text-light m-0">
+              {t("You_are_in_a_good_company")}
+            </h4>
             <p className="p-description">
               {t(
                 "A_product_is_something_a_brand_is_something_that_is_bought_by_the_customer"
