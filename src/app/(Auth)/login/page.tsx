@@ -111,6 +111,10 @@ const Login = () => {
         </div>
       </div>
       <div className="col-lg-6 col-md-12 col-sm-12  p-3 registration-area">
+        <div className="hintLogin">
+          <p className="my-2"> Email : adminbayan@domin.com</p>
+          <p className="my-2"> Password : admin123456789</p>
+        </div>
         <div className="row justify-content-center">
           <div className="col-10 ">
             <div className="status-registra">
