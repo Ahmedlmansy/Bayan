@@ -1,0 +1,32 @@
+﻿{
+    "Sheet1 (5)": [
+        {
+            "Row Labels": "Cara Losch",
+            "Count of sales_agent": "6"
+        },
+        {
+            "Row Labels": "Celia Rouche",
+            "Count of sales_agent": "6"
+        },
+        {
+            "Row Labels": "Dustin Brinkmann",
+            "Count of sales_agent": "5"
+        },
+        {
+            "Row Labels": "Melvin Marxen",
+            "Count of sales_agent": "6"
+        },
+        {
+            "Row Labels": "Rocco Neubert",
+            "Count of sales_agent": "6"
+        },
+        {
+            "Row Labels": "Summer Sewald",
+            "Count of sales_agent": "6"
+        },
+        {
+            "Row Labels": "Grand Total",
+            "Count of sales_agent": "35"
+        }
+    ]
+}

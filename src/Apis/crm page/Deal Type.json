@@ -1,0 +1,24 @@
+﻿{
+    "Sheet2": [
+        {
+            "Row Labels": "Engaging",
+            "Count of opportunity_id": "1589"
+        },
+        {
+            "Row Labels": "Lost",
+            "Count of opportunity_id": "2473"
+        },
+        {
+            "Row Labels": "Prospecting",
+            "Count of opportunity_id": "500"
+        },
+        {
+            "Row Labels": "Won",
+            "Count of opportunity_id": "4238"
+        },
+        {
+            "Row Labels": "Grand Total",
+            "Count of opportunity_id": "8800"
+        }
+    ]
+}

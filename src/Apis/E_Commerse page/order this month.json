@@ -1,0 +1,62 @@
+
+ null,
+ {
+  "Order_Date": "Row Labels",
+  "(Multiple Items)": "Count of customer_id"
+ },
+ {
+  "Order_Date": "2018",
+  "(Multiple Items)": 10308
+ },
+ {
+  "Order_Date": "Jan",
+  "(Multiple Items)": 497
+ },
+ {
+  "Order_Date": "Feb",
+  "(Multiple Items)": 421
+ },
+ {
+  "Order_Date": "Mar",
+  "(Multiple Items)": 577
+ },
+ {
+  "Order_Date": "Apr",
+  "(Multiple Items)": 813
+ },
+ {
+  "Order_Date": "May",
+  "(Multiple Items)": 1087
+ },
+ {
+  "Order_Date": "Jun",
+  "(Multiple Items)": 833
+ },
+ {
+  "Order_Date": "Jul",
+  "(Multiple Items)": 1050
+ },
+ {
+  "Order_Date": "Aug",
+  "(Multiple Items)": 902
+ },
+ {
+  "Order_Date": "Sep",
+  "(Multiple Items)": 946
+ },
+ {
+  "Order_Date": "Oct",
+  "(Multiple Items)": 979
+ },
+ {
+  "Order_Date": "Nov",
+  "(Multiple Items)": 1203
+ },
+ {
+  "Order_Date": "Dec",
+  "(Multiple Items)": 1000
+ },
+ {
+  "Order_Date": "Grand Total",
+  "(Multiple Items)": 10308
+ }

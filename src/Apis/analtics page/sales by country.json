@@ -1,0 +1,980 @@
+﻿{
+    "Sheet5": [
+        {
+            "Row Labels": "Afghanistan",
+            "Sum of Amount": "7404"
+        },
+        {
+            "Row Labels": "Albania",
+            "Sum of Amount": "13506.95"
+        },
+        {
+            "Row Labels": "Algeria",
+            "Sum of Amount": "12502.95"
+        },
+        {
+            "Row Labels": "American Samoa",
+            "Sum of Amount": "18351.54"
+        },
+        {
+            "Row Labels": "Andorra",
+            "Sum of Amount": "14982.95"
+        },
+        {
+            "Row Labels": "Angola",
+            "Sum of Amount": "16926.05"
+        },
+        {
+            "Row Labels": "Anguilla",
+            "Sum of Amount": "18059.19"
+        },
+        {
+            "Row Labels": "Antarctica (the territory South of 60 deg S)",
+            "Sum of Amount": "17209.65"
+        },
+        {
+            "Row Labels": "Antigua and Barbuda",
+            "Sum of Amount": "14749.42"
+        },
+        {
+            "Row Labels": "Argentina",
+            "Sum of Amount": "13461.54"
+        },
+        {
+            "Row Labels": "Armenia",
+            "Sum of Amount": "17538.53"
+        },
+        {
+            "Row Labels": "Aruba",
+            "Sum of Amount": "15387.48"
+        },
+        {
+            "Row Labels": "Australia",
+            "Sum of Amount": "18523.33"
+        },
+        {
+            "Row Labels": "Austria",
+            "Sum of Amount": "16651"
+        },
+        {
+            "Row Labels": "Azerbaijan",
+            "Sum of Amount": "14632"
+        },
+        {
+            "Row Labels": "Bahamas",
+            "Sum of Amount": "12571"
+        },
+        {
+            "Row Labels": "Bahrain",
+            "Sum of Amount": "14678"
+        },
+        {
+            "Row Labels": "Bangladesh",
+            "Sum of Amount": "15634"
+        },
+        {
+            "Row Labels": "Barbados",
+            "Sum of Amount": "20139"
+        },
+        {
+            "Row Labels": "Belarus",
+            "Sum of Amount": "19182"
+        },
+        {
+            "Row Labels": "Belgium",
+            "Sum of Amount": "10841.72"
+        },
+        {
+            "Row Labels": "Belize",
+            "Sum of Amount": "15075"
+        },
+        {
+            "Row Labels": "Benin",
+            "Sum of Amount": "13278"
+        },
+        {
+            "Row Labels": "Bermuda",
+            "Sum of Amount": "18508"
+        },
+        {
+            "Row Labels": "Bhutan",
+            "Sum of Amount": "12380.77"
+        },
+        {
+            "Row Labels": "Bolivia",
+            "Sum of Amount": "9069"
+        },
+        {
+            "Row Labels": "Bosnia and Herzegovina",
+            "Sum of Amount": "11918.71"
+        },
+        {
+            "Row Labels": "Botswana",
+            "Sum of Amount": "14660"
+        },
+        {
+            "Row Labels": "Bouvet Island (Bouvetoya)",
+            "Sum of Amount": "12422.82"
+        },
+        {
+            "Row Labels": "Brazil",
+            "Sum of Amount": "7452"
+        },
+        {
+            "Row Labels": "British Indian Ocean Territory (Chagos Archipelago)",
+            "Sum of Amount": "11059"
+        },
+        {
+            "Row Labels": "British Virgin Islands",
+            "Sum of Amount": "14203.05"
+        },
+        {
+            "Row Labels": "Brunei Darussalam",
+            "Sum of Amount": "20837.47"
+        },
+        {
+            "Row Labels": "Bulgaria",
+            "Sum of Amount": "13229"
+        },
+        {
+            "Row Labels": "Burkina Faso",
+            "Sum of Amount": "11961.68"
+        },
+        {
+            "Row Labels": "Burundi",
+            "Sum of Amount": "14712"
+        },
+        {
+            "Row Labels": "Cambodia",
+            "Sum of Amount": "18574.54"
+        },
+        {
+            "Row Labels": "Cameroon",
+            "Sum of Amount": "12785.95"
+        },
+        {
+            "Row Labels": "Canada",
+            "Sum of Amount": "12426"
+        },
+        {
+            "Row Labels": "Cape Verde",
+            "Sum of Amount": "13985"
+        },
+        {
+            "Row Labels": "Cayman Islands",
+            "Sum of Amount": "15873.48"
+        },
+        {
+            "Row Labels": "Central African Republic",
+            "Sum of Amount": "14936"
+        },
+        {
+            "Row Labels": "Chad",
+            "Sum of Amount": "21507.95"
+        },
+        {
+            "Row Labels": "Chile",
+            "Sum of Amount": "16346.14"
+        },
+        {
+            "Row Labels": "China",
+            "Sum of Amount": "13891.15"
+        },
+        {
+            "Row Labels": "Christmas Island",
+            "Sum of Amount": "11883.14"
+        },
+        {
+            "Row Labels": "Cocos (Keeling) Islands",
+            "Sum of Amount": "12485.24"
+        },
+        {
+            "Row Labels": "Colombia",
+            "Sum of Amount": "10823"
+        },
+        {
+            "Row Labels": "Comoros",
+            "Sum of Amount": "19158.66"
+        },
+        {
+            "Row Labels": "Congo",
+            "Sum of Amount": "29131.38"
+        },
+        {
+            "Row Labels": "Cook Islands",
+            "Sum of Amount": "13092"
+        },
+        {
+            "Row Labels": "Costa Rica",
+            "Sum of Amount": "15370"
+        },
+        {
+            "Row Labels": "Cote d'Ivoire",
+            "Sum of Amount": "12945.67"
+        },
+        {
+            "Row Labels": "Croatia",
+            "Sum of Amount": "17733.05"
+        },
+        {
+            "Row Labels": "Cuba",
+            "Sum of Amount": "14579.1"
+        },
+        {
+            "Row Labels": "Cyprus",
+            "Sum of Amount": "11110"
+        },
+        {
+            "Row Labels": "Czech Republic",
+            "Sum of Amount": "13415.19"
+        },
+        {
+            "Row Labels": "Denmark",
+            "Sum of Amount": "9597"
+        },
+        {
+            "Row Labels": "Djibouti",
+            "Sum of Amount": "9415"
+        },
+        {
+            "Row Labels": "Dominica",
+            "Sum of Amount": "17021.9"
+        },
+        {
+            "Row Labels": "Dominican Republic",
+            "Sum of Amount": "14624.8"
+        },
+        {
+            "Row Labels": "Ecuador",
+            "Sum of Amount": "14513.02"
+        },
+        {
+            "Row Labels": "Egypt",
+            "Sum of Amount": "19653"
+        },
+        {
+            "Row Labels": "El Salvador",
+            "Sum of Amount": "12192"
+        },
+        {
+            "Row Labels": "Equatorial Guinea",
+            "Sum of Amount": "10966"
+        },
+        {
+            "Row Labels": "Eritrea",
+            "Sum of Amount": "15015"
+        },
+        {
+            "Row Labels": "Estonia",
+            "Sum of Amount": "11762.67"
+        },
+        {
+            "Row Labels": "Ethiopia",
+            "Sum of Amount": "9831"
+        },
+        {
+            "Row Labels": "Falkland Islands (Malvinas)",
+            "Sum of Amount": "19755.22"
+        },
+        {
+            "Row Labels": "Faroe Islands",
+            "Sum of Amount": "14282.24"
+        },
+        {
+            "Row Labels": "Fiji",
+            "Sum of Amount": "20264.18"
+        },
+        {
+            "Row Labels": "Finland",
+            "Sum of Amount": "11473.05"
+        },
+        {
+            "Row Labels": "France",
+            "Sum of Amount": "12726"
+        },
+        {
+            "Row Labels": "French Guiana",
+            "Sum of Amount": "12132.19"
+        },
+        {
+            "Row Labels": "French Polynesia",
+            "Sum of Amount": "16770.07"
+        },
+        {
+            "Row Labels": "French Southern Territories",
+            "Sum of Amount": "11355.19"
+        },
+        {
+            "Row Labels": "Gabon",
+            "Sum of Amount": "20298"
+        },
+        {
+            "Row Labels": "Gambia",
+            "Sum of Amount": "9428"
+        },
+        {
+            "Row Labels": "Georgia",
+            "Sum of Amount": "17860.29"
+        },
+        {
+            "Row Labels": "Germany",
+            "Sum of Amount": "15525"
+        },
+        {
+            "Row Labels": "Ghana",
+            "Sum of Amount": "13739.43"
+        },
+        {
+            "Row Labels": "Gibraltar",
+            "Sum of Amount": "9743.86"
+        },
+        {
+            "Row Labels": "Greece",
+            "Sum of Amount": "14556.48"
+        },
+        {
+            "Row Labels": "Greenland",
+            "Sum of Amount": "14262.58"
+        },
+        {
+            "Row Labels": "Grenada",
+            "Sum of Amount": "15934.53"
+        },
+        {
+            "Row Labels": "Guadeloupe",
+            "Sum of Amount": "10310"
+        },
+        {
+            "Row Labels": "Guam",
+            "Sum of Amount": "16041"
+        },
+        {
+            "Row Labels": "Guatemala",
+            "Sum of Amount": "15136.48"
+        },
+        {
+            "Row Labels": "Guernsey",
+            "Sum of Amount": "11414"
+        },
+        {
+            "Row Labels": "Guinea",
+            "Sum of Amount": "10633.29"
+        },
+        {
+            "Row Labels": "Guinea-Bissau",
+            "Sum of Amount": "12662.28"
+        },
+        {
+            "Row Labels": "Guyana",
+            "Sum of Amount": "10380.52"
+        },
+        {
+            "Row Labels": "Haiti",
+            "Sum of Amount": "9890.19"
+        },
+        {
+            "Row Labels": "Heard Island and McDonald Islands",
+            "Sum of Amount": "16784"
+        },
+        {
+            "Row Labels": "Holy See (Vatican City State)",
+            "Sum of Amount": "20105.57"
+        },
+        {
+            "Row Labels": "Honduras",
+            "Sum of Amount": "18390.33"
+        },
+        {
+            "Row Labels": "Hong Kong",
+            "Sum of Amount": "17268"
+        },
+        {
+            "Row Labels": "Hungary",
+            "Sum of Amount": "12553.57"
+        },
+        {
+            "Row Labels": "Iceland",
+            "Sum of Amount": "14564.2"
+        },
+        {
+            "Row Labels": "India",
+            "Sum of Amount": "9604"
+        },
+        {
+            "Row Labels": "Indonesia",
+            "Sum of Amount": "13888.21"
+        },
+        {
+            "Row Labels": "Iran",
+            "Sum of Amount": "17913.53"
+        },
+        {
+            "Row Labels": "Iraq",
+            "Sum of Amount": "13460.47"
+        },
+        {
+            "Row Labels": "Ireland",
+            "Sum of Amount": "12309.1"
+        },
+        {
+            "Row Labels": "Isle of Man",
+            "Sum of Amount": "16256.1"
+        },
+        {
+            "Row Labels": "Israel",
+            "Sum of Amount": "16995.67"
+        },
+        {
+            "Row Labels": "Italy",
+            "Sum of Amount": "10592.86"
+        },
+        {
+            "Row Labels": "Jamaica",
+            "Sum of Amount": "14955"
+        },
+        {
+            "Row Labels": "Japan",
+            "Sum of Amount": "14428.49"
+        },
+        {
+            "Row Labels": "Jersey",
+            "Sum of Amount": "18364"
+        },
+        {
+            "Row Labels": "Jordan",
+            "Sum of Amount": "11753"
+        },
+        {
+            "Row Labels": "Kazakhstan",
+            "Sum of Amount": "12033"
+        },
+        {
+            "Row Labels": "Kenya",
+            "Sum of Amount": "13279.48"
+        },
+        {
+            "Row Labels": "Kiribati",
+            "Sum of Amount": "12508.29"
+        },
+        {
+            "Row Labels": "Korea",
+            "Sum of Amount": "24985.1"
+        },
+        {
+            "Row Labels": "Kuwait",
+            "Sum of Amount": "22896.15"
+        },
+        {
+            "Row Labels": "Kyrgyz Republic",
+            "Sum of Amount": "13783.86"
+        },
+        {
+            "Row Labels": "Lao People's Democratic Republic",
+            "Sum of Amount": "16893"
+        },
+        {
+            "Row Labels": "Latvia",
+            "Sum of Amount": "14258"
+        },
+        {
+            "Row Labels": "Lebanon",
+            "Sum of Amount": "16001.61"
+        },
+        {
+            "Row Labels": "Lesotho",
+            "Sum of Amount": "19365.96"
+        },
+        {
+            "Row Labels": "Liberia",
+            "Sum of Amount": "17145"
+        },
+        {
+            "Row Labels": "Libyan Arab Jamahiriya",
+            "Sum of Amount": "15226.57"
+        },
+        {
+            "Row Labels": "Liechtenstein",
+            "Sum of Amount": "14852.52"
+        },
+        {
+            "Row Labels": "Lithuania",
+            "Sum of Amount": "13254"
+        },
+        {
+            "Row Labels": "Luxembourg",
+            "Sum of Amount": "15030"
+        },
+        {
+            "Row Labels": "Macao",
+            "Sum of Amount": "18099.14"
+        },
+        {
+            "Row Labels": "Madagascar",
+            "Sum of Amount": "13928"
+        },
+        {
+            "Row Labels": "Malawi",
+            "Sum of Amount": "12248.57"
+        },
+        {
+            "Row Labels": "Malaysia",
+            "Sum of Amount": "15733.95"
+        },
+        {
+            "Row Labels": "Maldives",
+            "Sum of Amount": "14244.67"
+        },
+        {
+            "Row Labels": "Mali",
+            "Sum of Amount": "16173"
+        },
+        {
+            "Row Labels": "Malta",
+            "Sum of Amount": "19202.71"
+        },
+        {
+            "Row Labels": "Marshall Islands",
+            "Sum of Amount": "10066.76"
+        },
+        {
+            "Row Labels": "Martinique",
+            "Sum of Amount": "14341"
+        },
+        {
+            "Row Labels": "Mauritania",
+            "Sum of Amount": "11276.48"
+        },
+        {
+            "Row Labels": "Mauritius",
+            "Sum of Amount": "19276.08"
+        },
+        {
+            "Row Labels": "Mayotte",
+            "Sum of Amount": "11942.43"
+        },
+        {
+            "Row Labels": "Mexico",
+            "Sum of Amount": "12312.95"
+        },
+        {
+            "Row Labels": "Micronesia",
+            "Sum of Amount": "13714.62"
+        },
+        {
+            "Row Labels": "Moldova",
+            "Sum of Amount": "14938.38"
+        },
+        {
+            "Row Labels": "Monaco",
+            "Sum of Amount": "11451.28"
+        },
+        {
+            "Row Labels": "Mongolia",
+            "Sum of Amount": "21312.43"
+        },
+        {
+            "Row Labels": "Montenegro",
+            "Sum of Amount": "16691.71"
+        },
+        {
+            "Row Labels": "Montserrat",
+            "Sum of Amount": "17981.19"
+        },
+        {
+            "Row Labels": "Morocco",
+            "Sum of Amount": "14245"
+        },
+        {
+            "Row Labels": "Mozambique",
+            "Sum of Amount": "12032.85"
+        },
+        {
+            "Row Labels": "Myanmar",
+            "Sum of Amount": "15344"
+        },
+        {
+            "Row Labels": "Namibia",
+            "Sum of Amount": "17295.14"
+        },
+        {
+            "Row Labels": "Nauru",
+            "Sum of Amount": "14197.24"
+        },
+        {
+            "Row Labels": "Nepal",
+            "Sum of Amount": "13097"
+        },
+        {
+            "Row Labels": "Netherlands",
+            "Sum of Amount": "11769"
+        },
+        {
+            "Row Labels": "Netherlands Antilles",
+            "Sum of Amount": "11360.24"
+        },
+        {
+            "Row Labels": "New Caledonia",
+            "Sum of Amount": "19988.52"
+        },
+        {
+            "Row Labels": "New Zealand",
+            "Sum of Amount": "15465"
+        },
+        {
+            "Row Labels": "Nicaragua",
+            "Sum of Amount": "13172"
+        },
+        {
+            "Row Labels": "Niger",
+            "Sum of Amount": "18794.05"
+        },
+        {
+            "Row Labels": "Nigeria",
+            "Sum of Amount": "13082.1"
+        },
+        {
+            "Row Labels": "Niue",
+            "Sum of Amount": "13280"
+        },
+        {
+            "Row Labels": "Norfolk Island",
+            "Sum of Amount": "16138.81"
+        },
+        {
+            "Row Labels": "North Macedonia",
+            "Sum of Amount": "16712.66"
+        },
+        {
+            "Row Labels": "Northern Mariana Islands",
+            "Sum of Amount": "15818.48"
+        },
+        {
+            "Row Labels": "Norway",
+            "Sum of Amount": "11426.54"
+        },
+        {
+            "Row Labels": "Oman",
+            "Sum of Amount": "18944.43"
+        },
+        {
+            "Row Labels": "Pakistan",
+            "Sum of Amount": "11898"
+        },
+        {
+            "Row Labels": "Palau",
+            "Sum of Amount": "13785"
+        },
+        {
+            "Row Labels": "Palestinian Territory",
+            "Sum of Amount": "13561"
+        },
+        {
+            "Row Labels": "Panama",
+            "Sum of Amount": "16997.52"
+        },
+        {
+            "Row Labels": "Papua New Guinea",
+            "Sum of Amount": "16584.72"
+        },
+        {
+            "Row Labels": "Paraguay",
+            "Sum of Amount": "12589"
+        },
+        {
+            "Row Labels": "Peru",
+            "Sum of Amount": "10612.05"
+        },
+        {
+            "Row Labels": "Philippines",
+            "Sum of Amount": "13788.54"
+        },
+        {
+            "Row Labels": "Pitcairn Islands",
+            "Sum of Amount": "10528.57"
+        },
+        {
+            "Row Labels": "Poland",
+            "Sum of Amount": "12807"
+        },
+        {
+            "Row Labels": "Portugal",
+            "Sum of Amount": "12371.86"
+        },
+        {
+            "Row Labels": "Puerto Rico",
+            "Sum of Amount": "16772"
+        },
+        {
+            "Row Labels": "Qatar",
+            "Sum of Amount": "20068.86"
+        },
+        {
+            "Row Labels": "Reunion",
+            "Sum of Amount": "22546"
+        },
+        {
+            "Row Labels": "Romania",
+            "Sum of Amount": "13197.38"
+        },
+        {
+            "Row Labels": "Russian Federation",
+            "Sum of Amount": "20255.57"
+        },
+        {
+            "Row Labels": "Rwanda",
+            "Sum of Amount": "9046"
+        },
+        {
+            "Row Labels": "Saint Barthelemy",
+            "Sum of Amount": "17163.11"
+        },
+        {
+            "Row Labels": "Saint Helena",
+            "Sum of Amount": "14940"
+        },
+        {
+            "Row Labels": "Saint Kitts and Nevis",
+            "Sum of Amount": "12077"
+        },
+        {
+            "Row Labels": "Saint Lucia",
+            "Sum of Amount": "16942.1"
+        },
+        {
+            "Row Labels": "Saint Martin",
+            "Sum of Amount": "21888.19"
+        },
+        {
+            "Row Labels": "Saint Pierre and Miquelon",
+            "Sum of Amount": "11118.81"
+        },
+        {
+            "Row Labels": "Saint Vincent and the Grenadines",
+            "Sum of Amount": "16876"
+        },
+        {
+            "Row Labels": "Samoa",
+            "Sum of Amount": "15770"
+        },
+        {
+            "Row Labels": "San Marino",
+            "Sum of Amount": "21498.38"
+        },
+        {
+            "Row Labels": "Sao Tome and Principe",
+            "Sum of Amount": "13729.57"
+        },
+        {
+            "Row Labels": "Saudi Arabia",
+            "Sum of Amount": "10306.34"
+        },
+        {
+            "Row Labels": "Senegal",
+            "Sum of Amount": "15109.67"
+        },
+        {
+            "Row Labels": "Serbia",
+            "Sum of Amount": "17165.67"
+        },
+        {
+            "Row Labels": "Seychelles",
+            "Sum of Amount": "19005"
+        },
+        {
+            "Row Labels": "Sierra Leone",
+            "Sum of Amount": "13445"
+        },
+        {
+            "Row Labels": "Singapore",
+            "Sum of Amount": "18434.64"
+        },
+        {
+            "Row Labels": "Slovakia (Slovak Republic)",
+            "Sum of Amount": "12943"
+        },
+        {
+            "Row Labels": "Slovenia",
+            "Sum of Amount": "15864"
+        },
+        {
+            "Row Labels": "Solomon Islands",
+            "Sum of Amount": "20890.34"
+        },
+        {
+            "Row Labels": "Somalia",
+            "Sum of Amount": "17927"
+        },
+        {
+            "Row Labels": "South Africa",
+            "Sum of Amount": "11899"
+        },
+        {
+            "Row Labels": "South Georgia and the South Sandwich Islands",
+            "Sum of Amount": "12656.14"
+        },
+        {
+            "Row Labels": "Spain",
+            "Sum of Amount": "16812.67"
+        },
+        {
+            "Row Labels": "Sri Lanka",
+            "Sum of Amount": "14712"
+        },
+        {
+            "Row Labels": "Sudan",
+            "Sum of Amount": "14485.62"
+        },
+        {
+            "Row Labels": "Suriname",
+            "Sum of Amount": "16689.29"
+        },
+        {
+            "Row Labels": "Svalbard & Jan Mayen Islands",
+            "Sum of Amount": "23380"
+        },
+        {
+            "Row Labels": "Swaziland",
+            "Sum of Amount": "12128"
+        },
+        {
+            "Row Labels": "Sweden",
+            "Sum of Amount": "14788.71"
+        },
+        {
+            "Row Labels": "Switzerland",
+            "Sum of Amount": "17781.86"
+        },
+        {
+            "Row Labels": "Syrian Arab Republic",
+            "Sum of Amount": "14401"
+        },
+        {
+            "Row Labels": "Taiwan",
+            "Sum of Amount": "13812.57"
+        },
+        {
+            "Row Labels": "Tajikistan",
+            "Sum of Amount": "17725.29"
+        },
+        {
+            "Row Labels": "Tanzania",
+            "Sum of Amount": "13572"
+        },
+        {
+            "Row Labels": "Thailand",
+            "Sum of Amount": "14504.86"
+        },
+        {
+            "Row Labels": "Timor-Leste",
+            "Sum of Amount": "15642.76"
+        },
+        {
+            "Row Labels": "Togo",
+            "Sum of Amount": "12448.76"
+        },
+        {
+            "Row Labels": "Tokelau",
+            "Sum of Amount": "20314.86"
+        },
+        {
+            "Row Labels": "Tonga",
+            "Sum of Amount": "16032"
+        },
+        {
+            "Row Labels": "Trinidad and Tobago",
+            "Sum of Amount": "17148"
+        },
+        {
+            "Row Labels": "Tunisia",
+            "Sum of Amount": "12344"
+        },
+        {
+            "Row Labels": "Turkey",
+            "Sum of Amount": "15951.09"
+        },
+        {
+            "Row Labels": "Turkmenistan",
+            "Sum of Amount": "15772"
+        },
+        {
+            "Row Labels": "Turks and Caicos Islands",
+            "Sum of Amount": "8322"
+        },
+        {
+            "Row Labels": "Tuvalu",
+            "Sum of Amount": "10938.33"
+        },
+        {
+            "Row Labels": "Uganda",
+            "Sum of Amount": "18910.54"
+        },
+        {
+            "Row Labels": "Ukraine",
+            "Sum of Amount": "9093"
+        },
+        {
+            "Row Labels": "United Arab Emirates",
+            "Sum of Amount": "11318.24"
+        },
+        {
+            "Row Labels": "United Kingdom",
+            "Sum of Amount": "17976.86"
+        },
+        {
+            "Row Labels": "United States Minor Outlying Islands",
+            "Sum of Amount": "14238"
+        },
+        {
+            "Row Labels": "United States of America",
+            "Sum of Amount": "15145.9"
+        },
+        {
+            "Row Labels": "United States Virgin Islands",
+            "Sum of Amount": "15998.95"
+        },
+        {
+            "Row Labels": "Uruguay",
+            "Sum of Amount": "14625"
+        },
+        {
+            "Row Labels": "Uzbekistan",
+            "Sum of Amount": "12343"
+        },
+        {
+            "Row Labels": "Vanuatu",
+            "Sum of Amount": "12662.81"
+        },
+        {
+            "Row Labels": "Venezuela",
+            "Sum of Amount": "12624"
+        },
+        {
+            "Row Labels": "Vietnam",
+            "Sum of Amount": "13894"
+        },
+        {
+            "Row Labels": "Wallis and Futuna",
+            "Sum of Amount": "22885.67"
+        },
+        {
+            "Row Labels": "Western Sahara",
+            "Sum of Amount": "17117.48"
+        },
+        {
+            "Row Labels": "Yemen",
+            "Sum of Amount": "19220.93"
+        },
+        {
+            "Row Labels": "Zambia",
+            "Sum of Amount": "16743"
+        },
+        {
+            "Row Labels": "Zimbabwe",
+            "Sum of Amount": "14603.33"
+        },
+        {
+            "Row Labels": "Grand Total",
+            "Sum of Amount": "3619880.36"
+        }
+    ]
+}

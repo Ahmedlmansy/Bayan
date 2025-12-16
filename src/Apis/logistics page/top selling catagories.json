@@ -1,0 +1,24 @@
+﻿{
+    "Sheet1 (6)": [
+        {
+            "Row Labels": "Dairy",
+            "Sum of quantity": "314"
+        },
+        {
+            "Row Labels": "Fruits",
+            "Sum of quantity": "404"
+        },
+        {
+            "Row Labels": "Grains",
+            "Sum of quantity": "360"
+        },
+        {
+            "Row Labels": "Meats",
+            "Sum of quantity": "426"
+        },
+        {
+            "Row Labels": "Grand Total",
+            "Sum of quantity": "1504"
+        }
+    ]
+}

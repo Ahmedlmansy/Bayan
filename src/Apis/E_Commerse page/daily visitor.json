@@ -1,0 +1,1486 @@
+
+ null,
+ {
+  "Order_Date": "Row Labels",
+  "(Multiple Items)": "Count of customer_id"
+ },
+ {
+  "Order_Date": "2018",
+  "(Multiple Items)": 10308
+ },
+ {
+  "Order_Date": "Jan",
+  "(Multiple Items)": 497
+ },
+ {
+  "Order_Date": "1-Jan",
+  "(Multiple Items)": 16
+ },
+ {
+  "Order_Date": "2-Jan",
+  "(Multiple Items)": 13
+ },
+ {
+  "Order_Date": "3-Jan",
+  "(Multiple Items)": 27
+ },
+ {
+  "Order_Date": "4-Jan",
+  "(Multiple Items)": 20
+ },
+ {
+  "Order_Date": "5-Jan",
+  "(Multiple Items)": 22
+ },
+ {
+  "Order_Date": "6-Jan",
+  "(Multiple Items)": 16
+ },
+ {
+  "Order_Date": "7-Jan",
+  "(Multiple Items)": 16
+ },
+ {
+  "Order_Date": "8-Jan",
+  "(Multiple Items)": 17
+ },
+ {
+  "Order_Date": "9-Jan",
+  "(Multiple Items)": 26
+ },
+ {
+  "Order_Date": "10-Jan",
+  "(Multiple Items)": 14
+ },
+ {
+  "Order_Date": "11-Jan",
+  "(Multiple Items)": 10
+ },
+ {
+  "Order_Date": "12-Jan",
+  "(Multiple Items)": 22
+ },
+ {
+  "Order_Date": "13-Jan",
+  "(Multiple Items)": 17
+ },
+ {
+  "Order_Date": "14-Jan",
+  "(Multiple Items)": 6
+ },
+ {
+  "Order_Date": "15-Jan",
+  "(Multiple Items)": 11
+ },
+ {
+  "Order_Date": "16-Jan",
+  "(Multiple Items)": 18
+ },
+ {
+  "Order_Date": "17-Jan",
+  "(Multiple Items)": 18
+ },
+ {
+  "Order_Date": "18-Jan",
+  "(Multiple Items)": 16
+ },
+ {
+  "Order_Date": "19-Jan",
+  "(Multiple Items)": 19
+ },
+ {
+  "Order_Date": "20-Jan",
+  "(Multiple Items)": 11
+ },
+ {
+  "Order_Date": "21-Jan",
+  "(Multiple Items)": 12
+ },
+ {
+  "Order_Date": "22-Jan",
+  "(Multiple Items)": 19
+ },
+ {
+  "Order_Date": "23-Jan",
+  "(Multiple Items)": 13
+ },
+ {
+  "Order_Date": "24-Jan",
+  "(Multiple Items)": 18
+ },
+ {
+  "Order_Date": "25-Jan",
+  "(Multiple Items)": 14
+ },
+ {
+  "Order_Date": "26-Jan",
+  "(Multiple Items)": 20
+ },
+ {
+  "Order_Date": "27-Jan",
+  "(Multiple Items)": 20
+ },
+ {
+  "Order_Date": "28-Jan",
+  "(Multiple Items)": 6
+ },
+ {
+  "Order_Date": "29-Jan",
+  "(Multiple Items)": 15
+ },
+ {
+  "Order_Date": "30-Jan",
+  "(Multiple Items)": 25
+ },
+ {
+  "Order_Date": "Feb",
+  "(Multiple Items)": 421
+ },
+ {
+  "Order_Date": "1-Feb",
+  "(Multiple Items)": 18
+ },
+ {
+  "Order_Date": "2-Feb",
+  "(Multiple Items)": 8
+ },
+ {
+  "Order_Date": "3-Feb",
+  "(Multiple Items)": 14
+ },
+ {
+  "Order_Date": "4-Feb",
+  "(Multiple Items)": 13
+ },
+ {
+  "Order_Date": "5-Feb",
+  "(Multiple Items)": 19
+ },
+ {
+  "Order_Date": "6-Feb",
+  "(Multiple Items)": 16
+ },
+ {
+  "Order_Date": "7-Feb",
+  "(Multiple Items)": 6
+ },
+ {
+  "Order_Date": "8-Feb",
+  "(Multiple Items)": 12
+ },
+ {
+  "Order_Date": "9-Feb",
+  "(Multiple Items)": 19
+ },
+ {
+  "Order_Date": "10-Feb",
+  "(Multiple Items)": 13
+ },
+ {
+  "Order_Date": "11-Feb",
+  "(Multiple Items)": 20
+ },
+ {
+  "Order_Date": "12-Feb",
+  "(Multiple Items)": 17
+ },
+ {
+  "Order_Date": "13-Feb",
+  "(Multiple Items)": 29
+ },
+ {
+  "Order_Date": "14-Feb",
+  "(Multiple Items)": 19
+ },
+ {
+  "Order_Date": "15-Feb",
+  "(Multiple Items)": 18
+ },
+ {
+  "Order_Date": "16-Feb",
+  "(Multiple Items)": 8
+ },
+ {
+  "Order_Date": "17-Feb",
+  "(Multiple Items)": 7
+ },
+ {
+  "Order_Date": "18-Feb",
+  "(Multiple Items)": 24
+ },
+ {
+  "Order_Date": "19-Feb",
+  "(Multiple Items)": 16
+ },
+ {
+  "Order_Date": "20-Feb",
+  "(Multiple Items)": 20
+ },
+ {
+  "Order_Date": "21-Feb",
+  "(Multiple Items)": 19
+ },
+ {
+  "Order_Date": "22-Feb",
+  "(Multiple Items)": 16
+ },
+ {
+  "Order_Date": "23-Feb",
+  "(Multiple Items)": 7
+ },
+ {
+  "Order_Date": "24-Feb",
+  "(Multiple Items)": 12
+ },
+ {
+  "Order_Date": "25-Feb",
+  "(Multiple Items)": 12
+ },
+ {
+  "Order_Date": "26-Feb",
+  "(Multiple Items)": 17
+ },
+ {
+  "Order_Date": "27-Feb",
+  "(Multiple Items)": 10
+ },
+ {
+  "Order_Date": "28-Feb",
+  "(Multiple Items)": 12
+ },
+ {
+  "Order_Date": "Mar",
+  "(Multiple Items)": 577
+ },
+ {
+  "Order_Date": "1-Mar",
+  "(Multiple Items)": 31
+ },
+ {
+  "Order_Date": "2-Mar",
+  "(Multiple Items)": 25
+ },
+ {
+  "Order_Date": "3-Mar",
+  "(Multiple Items)": 28
+ },
+ {
+  "Order_Date": "4-Mar",
+  "(Multiple Items)": 34
+ },
+ {
+  "Order_Date": "5-Mar",
+  "(Multiple Items)": 29
+ },
+ {
+  "Order_Date": "6-Mar",
+  "(Multiple Items)": 29
+ },
+ {
+  "Order_Date": "7-Mar",
+  "(Multiple Items)": 23
+ },
+ {
+  "Order_Date": "8-Mar",
+  "(Multiple Items)": 18
+ },
+ {
+  "Order_Date": "9-Mar",
+  "(Multiple Items)": 22
+ },
+ {
+  "Order_Date": "10-Mar",
+  "(Multiple Items)": 21
+ },
+ {
+  "Order_Date": "11-Mar",
+  "(Multiple Items)": 32
+ },
+ {
+  "Order_Date": "12-Mar",
+  "(Multiple Items)": 19
+ },
+ {
+  "Order_Date": "13-Mar",
+  "(Multiple Items)": 20
+ },
+ {
+  "Order_Date": "14-Mar",
+  "(Multiple Items)": 19
+ },
+ {
+  "Order_Date": "15-Mar",
+  "(Multiple Items)": 29
+ },
+ {
+  "Order_Date": "16-Mar",
+  "(Multiple Items)": 11
+ },
+ {
+  "Order_Date": "17-Mar",
+  "(Multiple Items)": 15
+ },
+ {
+  "Order_Date": "18-Mar",
+  "(Multiple Items)": 23
+ },
+ {
+  "Order_Date": "19-Mar",
+  "(Multiple Items)": 20
+ },
+ {
+  "Order_Date": "20-Mar",
+  "(Multiple Items)": 16
+ },
+ {
+  "Order_Date": "21-Mar",
+  "(Multiple Items)": 17
+ },
+ {
+  "Order_Date": "22-Mar",
+  "(Multiple Items)": 9
+ },
+ {
+  "Order_Date": "23-Mar",
+  "(Multiple Items)": 13
+ },
+ {
+  "Order_Date": "24-Mar",
+  "(Multiple Items)": 5
+ },
+ {
+  "Order_Date": "25-Mar",
+  "(Multiple Items)": 6
+ },
+ {
+  "Order_Date": "26-Mar",
+  "(Multiple Items)": 13
+ },
+ {
+  "Order_Date": "27-Mar",
+  "(Multiple Items)": 21
+ },
+ {
+  "Order_Date": "28-Mar",
+  "(Multiple Items)": 12
+ },
+ {
+  "Order_Date": "29-Mar",
+  "(Multiple Items)": 10
+ },
+ {
+  "Order_Date": "30-Mar",
+  "(Multiple Items)": 7
+ },
+ {
+  "Order_Date": "Apr",
+  "(Multiple Items)": 813
+ },
+ {
+  "Order_Date": "1-Apr",
+  "(Multiple Items)": 5
+ },
+ {
+  "Order_Date": "2-Apr",
+  "(Multiple Items)": 19
+ },
+ {
+  "Order_Date": "3-Apr",
+  "(Multiple Items)": 14
+ },
+ {
+  "Order_Date": "4-Apr",
+  "(Multiple Items)": 6
+ },
+ {
+  "Order_Date": "5-Apr",
+  "(Multiple Items)": 14
+ },
+ {
+  "Order_Date": "6-Apr",
+  "(Multiple Items)": 22
+ },
+ {
+  "Order_Date": "7-Apr",
+  "(Multiple Items)": 16
+ },
+ {
+  "Order_Date": "8-Apr",
+  "(Multiple Items)": 21
+ },
+ {
+  "Order_Date": "9-Apr",
+  "(Multiple Items)": 24
+ },
+ {
+  "Order_Date": "10-Apr",
+  "(Multiple Items)": 22
+ },
+ {
+  "Order_Date": "11-Apr",
+  "(Multiple Items)": 24
+ },
+ {
+  "Order_Date": "12-Apr",
+  "(Multiple Items)": 17
+ },
+ {
+  "Order_Date": "13-Apr",
+  "(Multiple Items)": 20
+ },
+ {
+  "Order_Date": "14-Apr",
+  "(Multiple Items)": 11
+ },
+ {
+  "Order_Date": "15-Apr",
+  "(Multiple Items)": 20
+ },
+ {
+  "Order_Date": "16-Apr",
+  "(Multiple Items)": 29
+ },
+ {
+  "Order_Date": "17-Apr",
+  "(Multiple Items)": 20
+ },
+ {
+  "Order_Date": "18-Apr",
+  "(Multiple Items)": 17
+ },
+ {
+  "Order_Date": "19-Apr",
+  "(Multiple Items)": 20
+ },
+ {
+  "Order_Date": "20-Apr",
+  "(Multiple Items)": 20
+ },
+ {
+  "Order_Date": "21-Apr",
+  "(Multiple Items)": 27
+ },
+ {
+  "Order_Date": "22-Apr",
+  "(Multiple Items)": 20
+ },
+ {
+  "Order_Date": "23-Apr",
+  "(Multiple Items)": 22
+ },
+ {
+  "Order_Date": "24-Apr",
+  "(Multiple Items)": 129
+ },
+ {
+  "Order_Date": "25-Apr",
+  "(Multiple Items)": 51
+ },
+ {
+  "Order_Date": "26-Apr",
+  "(Multiple Items)": 51
+ },
+ {
+  "Order_Date": "27-Apr",
+  "(Multiple Items)": 47
+ },
+ {
+  "Order_Date": "28-Apr",
+  "(Multiple Items)": 44
+ },
+ {
+  "Order_Date": "29-Apr",
+  "(Multiple Items)": 30
+ },
+ {
+  "Order_Date": "30-Apr",
+  "(Multiple Items)": 31
+ },
+ {
+  "Order_Date": "May",
+  "(Multiple Items)": 1087
+ },
+ {
+  "Order_Date": "1-May",
+  "(Multiple Items)": 34
+ },
+ {
+  "Order_Date": "2-May",
+  "(Multiple Items)": 40
+ },
+ {
+  "Order_Date": "3-May",
+  "(Multiple Items)": 32
+ },
+ {
+  "Order_Date": "4-May",
+  "(Multiple Items)": 35
+ },
+ {
+  "Order_Date": "5-May",
+  "(Multiple Items)": 30
+ },
+ {
+  "Order_Date": "6-May",
+  "(Multiple Items)": 38
+ },
+ {
+  "Order_Date": "7-May",
+  "(Multiple Items)": 56
+ },
+ {
+  "Order_Date": "8-May",
+  "(Multiple Items)": 43
+ },
+ {
+  "Order_Date": "9-May",
+  "(Multiple Items)": 39
+ },
+ {
+  "Order_Date": "10-May",
+  "(Multiple Items)": 47
+ },
+ {
+  "Order_Date": "11-May",
+  "(Multiple Items)": 40
+ },
+ {
+  "Order_Date": "12-May",
+  "(Multiple Items)": 29
+ },
+ {
+  "Order_Date": "13-May",
+  "(Multiple Items)": 29
+ },
+ {
+  "Order_Date": "14-May",
+  "(Multiple Items)": 52
+ },
+ {
+  "Order_Date": "15-May",
+  "(Multiple Items)": 65
+ },
+ {
+  "Order_Date": "16-May",
+  "(Multiple Items)": 54
+ },
+ {
+  "Order_Date": "17-May",
+  "(Multiple Items)": 43
+ },
+ {
+  "Order_Date": "18-May",
+  "(Multiple Items)": 40
+ },
+ {
+  "Order_Date": "19-May",
+  "(Multiple Items)": 27
+ },
+ {
+  "Order_Date": "20-May",
+  "(Multiple Items)": 28
+ },
+ {
+  "Order_Date": "21-May",
+  "(Multiple Items)": 31
+ },
+ {
+  "Order_Date": "22-May",
+  "(Multiple Items)": 27
+ },
+ {
+  "Order_Date": "23-May",
+  "(Multiple Items)": 29
+ },
+ {
+  "Order_Date": "24-May",
+  "(Multiple Items)": 31
+ },
+ {
+  "Order_Date": "25-May",
+  "(Multiple Items)": 24
+ },
+ {
+  "Order_Date": "26-May",
+  "(Multiple Items)": 23
+ },
+ {
+  "Order_Date": "27-May",
+  "(Multiple Items)": 20
+ },
+ {
+  "Order_Date": "28-May",
+  "(Multiple Items)": 21
+ },
+ {
+  "Order_Date": "29-May",
+  "(Multiple Items)": 33
+ },
+ {
+  "Order_Date": "30-May",
+  "(Multiple Items)": 47
+ },
+ {
+  "Order_Date": "Jun",
+  "(Multiple Items)": 833
+ },
+ {
+  "Order_Date": "1-Jun",
+  "(Multiple Items)": 8
+ },
+ {
+  "Order_Date": "2-Jun",
+  "(Multiple Items)": 19
+ },
+ {
+  "Order_Date": "3-Jun",
+  "(Multiple Items)": 16
+ },
+ {
+  "Order_Date": "4-Jun",
+  "(Multiple Items)": 32
+ },
+ {
+  "Order_Date": "5-Jun",
+  "(Multiple Items)": 23
+ },
+ {
+  "Order_Date": "6-Jun",
+  "(Multiple Items)": 18
+ },
+ {
+  "Order_Date": "7-Jun",
+  "(Multiple Items)": 21
+ },
+ {
+  "Order_Date": "8-Jun",
+  "(Multiple Items)": 30
+ },
+ {
+  "Order_Date": "9-Jun",
+  "(Multiple Items)": 23
+ },
+ {
+  "Order_Date": "10-Jun",
+  "(Multiple Items)": 26
+ },
+ {
+  "Order_Date": "11-Jun",
+  "(Multiple Items)": 35
+ },
+ {
+  "Order_Date": "12-Jun",
+  "(Multiple Items)": 28
+ },
+ {
+  "Order_Date": "13-Jun",
+  "(Multiple Items)": 29
+ },
+ {
+  "Order_Date": "14-Jun",
+  "(Multiple Items)": 31
+ },
+ {
+  "Order_Date": "15-Jun",
+  "(Multiple Items)": 29
+ },
+ {
+  "Order_Date": "16-Jun",
+  "(Multiple Items)": 27
+ },
+ {
+  "Order_Date": "17-Jun",
+  "(Multiple Items)": 32
+ },
+ {
+  "Order_Date": "18-Jun",
+  "(Multiple Items)": 18
+ },
+ {
+  "Order_Date": "19-Jun",
+  "(Multiple Items)": 29
+ },
+ {
+  "Order_Date": "20-Jun",
+  "(Multiple Items)": 21
+ },
+ {
+  "Order_Date": "21-Jun",
+  "(Multiple Items)": 24
+ },
+ {
+  "Order_Date": "22-Jun",
+  "(Multiple Items)": 40
+ },
+ {
+  "Order_Date": "23-Jun",
+  "(Multiple Items)": 38
+ },
+ {
+  "Order_Date": "24-Jun",
+  "(Multiple Items)": 22
+ },
+ {
+  "Order_Date": "25-Jun",
+  "(Multiple Items)": 29
+ },
+ {
+  "Order_Date": "26-Jun",
+  "(Multiple Items)": 37
+ },
+ {
+  "Order_Date": "27-Jun",
+  "(Multiple Items)": 26
+ },
+ {
+  "Order_Date": "28-Jun",
+  "(Multiple Items)": 17
+ },
+ {
+  "Order_Date": "29-Jun",
+  "(Multiple Items)": 27
+ },
+ {
+  "Order_Date": "30-Jun",
+  "(Multiple Items)": 78
+ },
+ {
+  "Order_Date": "Jul",
+  "(Multiple Items)": 1050
+ },
+ {
+  "Order_Date": "1-Jul",
+  "(Multiple Items)": 29
+ },
+ {
+  "Order_Date": "2-Jul",
+  "(Multiple Items)": 32
+ },
+ {
+  "Order_Date": "3-Jul",
+  "(Multiple Items)": 28
+ },
+ {
+  "Order_Date": "4-Jul",
+  "(Multiple Items)": 47
+ },
+ {
+  "Order_Date": "5-Jul",
+  "(Multiple Items)": 29
+ },
+ {
+  "Order_Date": "6-Jul",
+  "(Multiple Items)": 22
+ },
+ {
+  "Order_Date": "7-Jul",
+  "(Multiple Items)": 13
+ },
+ {
+  "Order_Date": "8-Jul",
+  "(Multiple Items)": 19
+ },
+ {
+  "Order_Date": "9-Jul",
+  "(Multiple Items)": 17
+ },
+ {
+  "Order_Date": "10-Jul",
+  "(Multiple Items)": 23
+ },
+ {
+  "Order_Date": "11-Jul",
+  "(Multiple Items)": 28
+ },
+ {
+  "Order_Date": "12-Jul",
+  "(Multiple Items)": 30
+ },
+ {
+  "Order_Date": "13-Jul",
+  "(Multiple Items)": 34
+ },
+ {
+  "Order_Date": "14-Jul",
+  "(Multiple Items)": 28
+ },
+ {
+  "Order_Date": "15-Jul",
+  "(Multiple Items)": 21
+ },
+ {
+  "Order_Date": "16-Jul",
+  "(Multiple Items)": 38
+ },
+ {
+  "Order_Date": "17-Jul",
+  "(Multiple Items)": 37
+ },
+ {
+  "Order_Date": "18-Jul",
+  "(Multiple Items)": 56
+ },
+ {
+  "Order_Date": "19-Jul",
+  "(Multiple Items)": 40
+ },
+ {
+  "Order_Date": "20-Jul",
+  "(Multiple Items)": 44
+ },
+ {
+  "Order_Date": "21-Jul",
+  "(Multiple Items)": 25
+ },
+ {
+  "Order_Date": "22-Jul",
+  "(Multiple Items)": 35
+ },
+ {
+  "Order_Date": "23-Jul",
+  "(Multiple Items)": 42
+ },
+ {
+  "Order_Date": "24-Jul",
+  "(Multiple Items)": 35
+ },
+ {
+  "Order_Date": "25-Jul",
+  "(Multiple Items)": 41
+ },
+ {
+  "Order_Date": "26-Jul",
+  "(Multiple Items)": 47
+ },
+ {
+  "Order_Date": "27-Jul",
+  "(Multiple Items)": 47
+ },
+ {
+  "Order_Date": "28-Jul",
+  "(Multiple Items)": 36
+ },
+ {
+  "Order_Date": "29-Jul",
+  "(Multiple Items)": 31
+ },
+ {
+  "Order_Date": "30-Jul",
+  "(Multiple Items)": 96
+ },
+ {
+  "Order_Date": "Aug",
+  "(Multiple Items)": 902
+ },
+ {
+  "Order_Date": "1-Aug",
+  "(Multiple Items)": 34
+ },
+ {
+  "Order_Date": "2-Aug",
+  "(Multiple Items)": 25
+ },
+ {
+  "Order_Date": "3-Aug",
+  "(Multiple Items)": 28
+ },
+ {
+  "Order_Date": "4-Aug",
+  "(Multiple Items)": 25
+ },
+ {
+  "Order_Date": "5-Aug",
+  "(Multiple Items)": 41
+ },
+ {
+  "Order_Date": "6-Aug",
+  "(Multiple Items)": 43
+ },
+ {
+  "Order_Date": "7-Aug",
+  "(Multiple Items)": 38
+ },
+ {
+  "Order_Date": "8-Aug",
+  "(Multiple Items)": 32
+ },
+ {
+  "Order_Date": "9-Aug",
+  "(Multiple Items)": 37
+ },
+ {
+  "Order_Date": "10-Aug",
+  "(Multiple Items)": 25
+ },
+ {
+  "Order_Date": "11-Aug",
+  "(Multiple Items)": 28
+ },
+ {
+  "Order_Date": "12-Aug",
+  "(Multiple Items)": 36
+ },
+ {
+  "Order_Date": "13-Aug",
+  "(Multiple Items)": 28
+ },
+ {
+  "Order_Date": "14-Aug",
+  "(Multiple Items)": 30
+ },
+ {
+  "Order_Date": "15-Aug",
+  "(Multiple Items)": 33
+ },
+ {
+  "Order_Date": "16-Aug",
+  "(Multiple Items)": 32
+ },
+ {
+  "Order_Date": "17-Aug",
+  "(Multiple Items)": 25
+ },
+ {
+  "Order_Date": "18-Aug",
+  "(Multiple Items)": 28
+ },
+ {
+  "Order_Date": "19-Aug",
+  "(Multiple Items)": 31
+ },
+ {
+  "Order_Date": "20-Aug",
+  "(Multiple Items)": 38
+ },
+ {
+  "Order_Date": "21-Aug",
+  "(Multiple Items)": 29
+ },
+ {
+  "Order_Date": "22-Aug",
+  "(Multiple Items)": 31
+ },
+ {
+  "Order_Date": "23-Aug",
+  "(Multiple Items)": 35
+ },
+ {
+  "Order_Date": "24-Aug",
+  "(Multiple Items)": 38
+ },
+ {
+  "Order_Date": "25-Aug",
+  "(Multiple Items)": 23
+ },
+ {
+  "Order_Date": "26-Aug",
+  "(Multiple Items)": 38
+ },
+ {
+  "Order_Date": "27-Aug",
+  "(Multiple Items)": 37
+ },
+ {
+  "Order_Date": "28-Aug",
+  "(Multiple Items)": 34
+ },
+ {
+  "Order_Date": "Sep",
+  "(Multiple Items)": 946
+ },
+ {
+  "Order_Date": "1-Sep",
+  "(Multiple Items)": 23
+ },
+ {
+  "Order_Date": "2-Sep",
+  "(Multiple Items)": 36
+ },
+ {
+  "Order_Date": "3-Sep",
+  "(Multiple Items)": 41
+ },
+ {
+  "Order_Date": "4-Sep",
+  "(Multiple Items)": 32
+ },
+ {
+  "Order_Date": "5-Sep",
+  "(Multiple Items)": 37
+ },
+ {
+  "Order_Date": "6-Sep",
+  "(Multiple Items)": 25
+ },
+ {
+  "Order_Date": "7-Sep",
+  "(Multiple Items)": 25
+ },
+ {
+  "Order_Date": "8-Sep",
+  "(Multiple Items)": 30
+ },
+ {
+  "Order_Date": "9-Sep",
+  "(Multiple Items)": 33
+ },
+ {
+  "Order_Date": "10-Sep",
+  "(Multiple Items)": 24
+ },
+ {
+  "Order_Date": "11-Sep",
+  "(Multiple Items)": 43
+ },
+ {
+  "Order_Date": "12-Sep",
+  "(Multiple Items)": 25
+ },
+ {
+  "Order_Date": "13-Sep",
+  "(Multiple Items)": 26
+ },
+ {
+  "Order_Date": "14-Sep",
+  "(Multiple Items)": 18
+ },
+ {
+  "Order_Date": "15-Sep",
+  "(Multiple Items)": 33
+ },
+ {
+  "Order_Date": "16-Sep",
+  "(Multiple Items)": 28
+ },
+ {
+  "Order_Date": "17-Sep",
+  "(Multiple Items)": 25
+ },
+ {
+  "Order_Date": "18-Sep",
+  "(Multiple Items)": 41
+ },
+ {
+  "Order_Date": "19-Sep",
+  "(Multiple Items)": 40
+ },
+ {
+  "Order_Date": "20-Sep",
+  "(Multiple Items)": 33
+ },
+ {
+  "Order_Date": "21-Sep",
+  "(Multiple Items)": 16
+ },
+ {
+  "Order_Date": "22-Sep",
+  "(Multiple Items)": 33
+ },
+ {
+  "Order_Date": "23-Sep",
+  "(Multiple Items)": 37
+ },
+ {
+  "Order_Date": "24-Sep",
+  "(Multiple Items)": 43
+ },
+ {
+  "Order_Date": "25-Sep",
+  "(Multiple Items)": 41
+ },
+ {
+  "Order_Date": "26-Sep",
+  "(Multiple Items)": 40
+ },
+ {
+  "Order_Date": "27-Sep",
+  "(Multiple Items)": 40
+ },
+ {
+  "Order_Date": "28-Sep",
+  "(Multiple Items)": 22
+ },
+ {
+  "Order_Date": "29-Sep",
+  "(Multiple Items)": 29
+ },
+ {
+  "Order_Date": "30-Sep",
+  "(Multiple Items)": 27
+ },
+ {
+  "Order_Date": "Oct",
+  "(Multiple Items)": 979
+ },
+ {
+  "Order_Date": "1-Oct",
+  "(Multiple Items)": 29
+ },
+ {
+  "Order_Date": "2-Oct",
+  "(Multiple Items)": 26
+ },
+ {
+  "Order_Date": "3-Oct",
+  "(Multiple Items)": 23
+ },
+ {
+  "Order_Date": "4-Oct",
+  "(Multiple Items)": 39
+ },
+ {
+  "Order_Date": "5-Oct",
+  "(Multiple Items)": 39
+ },
+ {
+  "Order_Date": "6-Oct",
+  "(Multiple Items)": 37
+ },
+ {
+  "Order_Date": "7-Oct",
+  "(Multiple Items)": 32
+ },
+ {
+  "Order_Date": "8-Oct",
+  "(Multiple Items)": 28
+ },
+ {
+  "Order_Date": "9-Oct",
+  "(Multiple Items)": 30
+ },
+ {
+  "Order_Date": "10-Oct",
+  "(Multiple Items)": 33
+ },
+ {
+  "Order_Date": "11-Oct",
+  "(Multiple Items)": 43
+ },
+ {
+  "Order_Date": "12-Oct",
+  "(Multiple Items)": 47
+ },
+ {
+  "Order_Date": "13-Oct",
+  "(Multiple Items)": 39
+ },
+ {
+  "Order_Date": "14-Oct",
+  "(Multiple Items)": 38
+ },
+ {
+  "Order_Date": "15-Oct",
+  "(Multiple Items)": 28
+ },
+ {
+  "Order_Date": "16-Oct",
+  "(Multiple Items)": 35
+ },
+ {
+  "Order_Date": "17-Oct",
+  "(Multiple Items)": 24
+ },
+ {
+  "Order_Date": "18-Oct",
+  "(Multiple Items)": 41
+ },
+ {
+  "Order_Date": "19-Oct",
+  "(Multiple Items)": 39
+ },
+ {
+  "Order_Date": "20-Oct",
+  "(Multiple Items)": 31
+ },
+ {
+  "Order_Date": "21-Oct",
+  "(Multiple Items)": 22
+ },
+ {
+  "Order_Date": "22-Oct",
+  "(Multiple Items)": 27
+ },
+ {
+  "Order_Date": "23-Oct",
+  "(Multiple Items)": 19
+ },
+ {
+  "Order_Date": "24-Oct",
+  "(Multiple Items)": 33
+ },
+ {
+  "Order_Date": "25-Oct",
+  "(Multiple Items)": 41
+ },
+ {
+  "Order_Date": "26-Oct",
+  "(Multiple Items)": 23
+ },
+ {
+  "Order_Date": "27-Oct",
+  "(Multiple Items)": 39
+ },
+ {
+  "Order_Date": "28-Oct",
+  "(Multiple Items)": 36
+ },
+ {
+  "Order_Date": "29-Oct",
+  "(Multiple Items)": 33
+ },
+ {
+  "Order_Date": "30-Oct",
+  "(Multiple Items)": 25
+ },
+ {
+  "Order_Date": "Nov",
+  "(Multiple Items)": 1203
+ },
+ {
+  "Order_Date": "1-Nov",
+  "(Multiple Items)": 55
+ },
+ {
+  "Order_Date": "2-Nov",
+  "(Multiple Items)": 45
+ },
+ {
+  "Order_Date": "3-Nov",
+  "(Multiple Items)": 55
+ },
+ {
+  "Order_Date": "4-Nov",
+  "(Multiple Items)": 46
+ },
+ {
+  "Order_Date": "5-Nov",
+  "(Multiple Items)": 44
+ },
+ {
+  "Order_Date": "6-Nov",
+  "(Multiple Items)": 57
+ },
+ {
+  "Order_Date": "7-Nov",
+  "(Multiple Items)": 49
+ },
+ {
+  "Order_Date": "8-Nov",
+  "(Multiple Items)": 53
+ },
+ {
+  "Order_Date": "9-Nov",
+  "(Multiple Items)": 47
+ },
+ {
+  "Order_Date": "10-Nov",
+  "(Multiple Items)": 53
+ },
+ {
+  "Order_Date": "11-Nov",
+  "(Multiple Items)": 44
+ },
+ {
+  "Order_Date": "12-Nov",
+  "(Multiple Items)": 34
+ },
+ {
+  "Order_Date": "13-Nov",
+  "(Multiple Items)": 33
+ },
+ {
+  "Order_Date": "14-Nov",
+  "(Multiple Items)": 48
+ },
+ {
+  "Order_Date": "15-Nov",
+  "(Multiple Items)": 54
+ },
+ {
+  "Order_Date": "16-Nov",
+  "(Multiple Items)": 53
+ },
+ {
+  "Order_Date": "17-Nov",
+  "(Multiple Items)": 47
+ },
+ {
+  "Order_Date": "18-Nov",
+  "(Multiple Items)": 27
+ },
+ {
+  "Order_Date": "19-Nov",
+  "(Multiple Items)": 32
+ },
+ {
+  "Order_Date": "20-Nov",
+  "(Multiple Items)": 39
+ },
+ {
+  "Order_Date": "21-Nov",
+  "(Multiple Items)": 51
+ },
+ {
+  "Order_Date": "22-Nov",
+  "(Multiple Items)": 34
+ },
+ {
+  "Order_Date": "23-Nov",
+  "(Multiple Items)": 26
+ },
+ {
+  "Order_Date": "24-Nov",
+  "(Multiple Items)": 18
+ },
+ {
+  "Order_Date": "25-Nov",
+  "(Multiple Items)": 20
+ },
+ {
+  "Order_Date": "26-Nov",
+  "(Multiple Items)": 22
+ },
+ {
+  "Order_Date": "27-Nov",
+  "(Multiple Items)": 24
+ },
+ {
+  "Order_Date": "28-Nov",
+  "(Multiple Items)": 30
+ },
+ {
+  "Order_Date": "29-Nov",
+  "(Multiple Items)": 16
+ },
+ {
+  "Order_Date": "30-Nov",
+  "(Multiple Items)": 47
+ },
+ {
+  "Order_Date": "Dec",
+  "(Multiple Items)": 1000
+ },
+ {
+  "Order_Date": "1-Dec",
+  "(Multiple Items)": 40
+ },
+ {
+  "Order_Date": "2-Dec",
+  "(Multiple Items)": 32
+ },
+ {
+  "Order_Date": "3-Dec",
+  "(Multiple Items)": 29
+ },
+ {
+  "Order_Date": "4-Dec",
+  "(Multiple Items)": 30
+ },
+ {
+  "Order_Date": "5-Dec",
+  "(Multiple Items)": 26
+ },
+ {
+  "Order_Date": "6-Dec",
+  "(Multiple Items)": 28
+ },
+ {
+  "Order_Date": "7-Dec",
+  "(Multiple Items)": 42
+ },
+ {
+  "Order_Date": "8-Dec",
+  "(Multiple Items)": 27
+ },
+ {
+  "Order_Date": "9-Dec",
+  "(Multiple Items)": 32
+ },
+ {
+  "Order_Date": "10-Dec",
+  "(Multiple Items)": 37
+ },
+ {
+  "Order_Date": "11-Dec",
+  "(Multiple Items)": 18
+ },
+ {
+  "Order_Date": "12-Dec",
+  "(Multiple Items)": 31
+ },
+ {
+  "Order_Date": "13-Dec",
+  "(Multiple Items)": 23
+ },
+ {
+  "Order_Date": "14-Dec",
+  "(Multiple Items)": 23
+ },
+ {
+  "Order_Date": "15-Dec",
+  "(Multiple Items)": 45
+ },
+ {
+  "Order_Date": "16-Dec",
+  "(Multiple Items)": 47
+ },
+ {
+  "Order_Date": "17-Dec",
+  "(Multiple Items)": 22
+ },
+ {
+  "Order_Date": "18-Dec",
+  "(Multiple Items)": 25
+ },
+ {
+  "Order_Date": "19-Dec",
+  "(Multiple Items)": 36
+ },
+ {
+  "Order_Date": "20-Dec",
+  "(Multiple Items)": 47
+ },
+ {
+  "Order_Date": "21-Dec",
+  "(Multiple Items)": 35
+ },
+ {
+  "Order_Date": "22-Dec",
+  "(Multiple Items)": 27
+ },
+ {
+  "Order_Date": "23-Dec",
+  "(Multiple Items)": 39
+ },
+ {
+  "Order_Date": "24-Dec",
+  "(Multiple Items)": 36
+ },
+ {
+  "Order_Date": "25-Dec",
+  "(Multiple Items)": 32
+ },
+ {
+  "Order_Date": "26-Dec",
+  "(Multiple Items)": 32
+ },
+ {
+  "Order_Date": "27-Dec",
+  "(Multiple Items)": 31
+ },
+ {
+  "Order_Date": "28-Dec",
+  "(Multiple Items)": 29
+ },
+ {
+  "Order_Date": "29-Dec",
+  "(Multiple Items)": 40
+ },
+ {
+  "Order_Date": "30-Dec",
+  "(Multiple Items)": 59
+ },
+ {
+  "Order_Date": "Grand Total",
+  "(Multiple Items)": 10308
+ }

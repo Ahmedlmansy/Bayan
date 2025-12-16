@@ -1,0 +1,1280 @@
+﻿{
+    "Sheet2": [
+        {
+            "close_date": "Row Labels",
+            "(All)": "Sum of close_value"
+        },
+        {
+            "close_date": "2017",
+            "(All)": "10005534"
+        },
+        {
+            "close_date": "Mar",
+            "(All)": "1134672"
+        },
+        {
+            "close_date": "1-Mar",
+            "(All)": "49351"
+        },
+        {
+            "close_date": "2-Mar",
+            "(All)": "35498"
+        },
+        {
+            "close_date": "3-Mar",
+            "(All)": "32750"
+        },
+        {
+            "close_date": "4-Mar",
+            "(All)": "25262"
+        },
+        {
+            "close_date": "5-Mar",
+            "(All)": "22802"
+        },
+        {
+            "close_date": "6-Mar",
+            "(All)": "40650"
+        },
+        {
+            "close_date": "7-Mar",
+            "(All)": "33372"
+        },
+        {
+            "close_date": "8-Mar",
+            "(All)": "27194"
+        },
+        {
+            "close_date": "9-Mar",
+            "(All)": "52498"
+        },
+        {
+            "close_date": "10-Mar",
+            "(All)": "43118"
+        },
+        {
+            "close_date": "11-Mar",
+            "(All)": "37278"
+        },
+        {
+            "close_date": "12-Mar",
+            "(All)": "28876"
+        },
+        {
+            "close_date": "13-Mar",
+            "(All)": "49809"
+        },
+        {
+            "close_date": "14-Mar",
+            "(All)": "65335"
+        },
+        {
+            "close_date": "15-Mar",
+            "(All)": "39621"
+        },
+        {
+            "close_date": "16-Mar",
+            "(All)": "44570"
+        },
+        {
+            "close_date": "17-Mar",
+            "(All)": "24140"
+        },
+        {
+            "close_date": "18-Mar",
+            "(All)": "38613"
+        },
+        {
+            "close_date": "19-Mar",
+            "(All)": "28015"
+        },
+        {
+            "close_date": "20-Mar",
+            "(All)": "34646"
+        },
+        {
+            "close_date": "21-Mar",
+            "(All)": "58654"
+        },
+        {
+            "close_date": "22-Mar",
+            "(All)": "31796"
+        },
+        {
+            "close_date": "23-Mar",
+            "(All)": "35853"
+        },
+        {
+            "close_date": "24-Mar",
+            "(All)": "24235"
+        },
+        {
+            "close_date": "25-Mar",
+            "(All)": "44621"
+        },
+        {
+            "close_date": "26-Mar",
+            "(All)": "19663"
+        },
+        {
+            "close_date": "27-Mar",
+            "(All)": "20688"
+        },
+        {
+            "close_date": "28-Mar",
+            "(All)": "39311"
+        },
+        {
+            "close_date": "29-Mar",
+            "(All)": "38718"
+        },
+        {
+            "close_date": "30-Mar",
+            "(All)": "43596"
+        },
+        {
+            "close_date": "31-Mar",
+            "(All)": "24139"
+        },
+        {
+            "close_date": "Apr",
+            "(All)": "721932"
+        },
+        {
+            "close_date": "1-Apr",
+            "(All)": "18284"
+        },
+        {
+            "close_date": "2-Apr",
+            "(All)": "18190"
+        },
+        {
+            "close_date": "3-Apr",
+            "(All)": "15177"
+        },
+        {
+            "close_date": "4-Apr",
+            "(All)": "15454"
+        },
+        {
+            "close_date": "5-Apr",
+            "(All)": "44703"
+        },
+        {
+            "close_date": "6-Apr",
+            "(All)": "31247"
+        },
+        {
+            "close_date": "7-Apr",
+            "(All)": "24958"
+        },
+        {
+            "close_date": "8-Apr",
+            "(All)": "25312"
+        },
+        {
+            "close_date": "9-Apr",
+            "(All)": "31479"
+        },
+        {
+            "close_date": "10-Apr",
+            "(All)": "37670"
+        },
+        {
+            "close_date": "11-Apr",
+            "(All)": "18335"
+        },
+        {
+            "close_date": "12-Apr",
+            "(All)": "26620"
+        },
+        {
+            "close_date": "13-Apr",
+            "(All)": "20828"
+        },
+        {
+            "close_date": "14-Apr",
+            "(All)": "18356"
+        },
+        {
+            "close_date": "15-Apr",
+            "(All)": "15524"
+        },
+        {
+            "close_date": "16-Apr",
+            "(All)": "20914"
+        },
+        {
+            "close_date": "17-Apr",
+            "(All)": "26592"
+        },
+        {
+            "close_date": "18-Apr",
+            "(All)": "13901"
+        },
+        {
+            "close_date": "19-Apr",
+            "(All)": "20793"
+        },
+        {
+            "close_date": "20-Apr",
+            "(All)": "54109"
+        },
+        {
+            "close_date": "21-Apr",
+            "(All)": "10211"
+        },
+        {
+            "close_date": "22-Apr",
+            "(All)": "22464"
+        },
+        {
+            "close_date": "23-Apr",
+            "(All)": "18817"
+        },
+        {
+            "close_date": "24-Apr",
+            "(All)": "37662"
+        },
+        {
+            "close_date": "25-Apr",
+            "(All)": "23026"
+        },
+        {
+            "close_date": "26-Apr",
+            "(All)": "10903"
+        },
+        {
+            "close_date": "27-Apr",
+            "(All)": "22387"
+        },
+        {
+            "close_date": "28-Apr",
+            "(All)": "19069"
+        },
+        {
+            "close_date": "29-Apr",
+            "(All)": "28379"
+        },
+        {
+            "close_date": "30-Apr",
+            "(All)": "30568"
+        },
+        {
+            "close_date": "May",
+            "(All)": "1025713"
+        },
+        {
+            "close_date": "1-May",
+            "(All)": "24154"
+        },
+        {
+            "close_date": "2-May",
+            "(All)": "24366"
+        },
+        {
+            "close_date": "3-May",
+            "(All)": "21804"
+        },
+        {
+            "close_date": "4-May",
+            "(All)": "35310"
+        },
+        {
+            "close_date": "5-May",
+            "(All)": "40084"
+        },
+        {
+            "close_date": "6-May",
+            "(All)": "42071"
+        },
+        {
+            "close_date": "7-May",
+            "(All)": "19926"
+        },
+        {
+            "close_date": "8-May",
+            "(All)": "43696"
+        },
+        {
+            "close_date": "9-May",
+            "(All)": "41537"
+        },
+        {
+            "close_date": "10-May",
+            "(All)": "32876"
+        },
+        {
+            "close_date": "11-May",
+            "(All)": "33896"
+        },
+        {
+            "close_date": "12-May",
+            "(All)": "17968"
+        },
+        {
+            "close_date": "13-May",
+            "(All)": "41675"
+        },
+        {
+            "close_date": "14-May",
+            "(All)": "28403"
+        },
+        {
+            "close_date": "15-May",
+            "(All)": "66549"
+        },
+        {
+            "close_date": "16-May",
+            "(All)": "30926"
+        },
+        {
+            "close_date": "17-May",
+            "(All)": "33995"
+        },
+        {
+            "close_date": "18-May",
+            "(All)": "35171"
+        },
+        {
+            "close_date": "19-May",
+            "(All)": "25013"
+        },
+        {
+            "close_date": "20-May",
+            "(All)": "32866"
+        },
+        {
+            "close_date": "21-May",
+            "(All)": "26693"
+        },
+        {
+            "close_date": "22-May",
+            "(All)": "67339"
+        },
+        {
+            "close_date": "23-May",
+            "(All)": "26464"
+        },
+        {
+            "close_date": "24-May",
+            "(All)": "31379"
+        },
+        {
+            "close_date": "25-May",
+            "(All)": "27731"
+        },
+        {
+            "close_date": "26-May",
+            "(All)": "38092"
+        },
+        {
+            "close_date": "27-May",
+            "(All)": "37206"
+        },
+        {
+            "close_date": "28-May",
+            "(All)": "19604"
+        },
+        {
+            "close_date": "29-May",
+            "(All)": "26664"
+        },
+        {
+            "close_date": "30-May",
+            "(All)": "29455"
+        },
+        {
+            "close_date": "31-May",
+            "(All)": "22800"
+        },
+        {
+            "close_date": "Jun",
+            "(All)": "1338466"
+        },
+        {
+            "close_date": "1-Jun",
+            "(All)": "19825"
+        },
+        {
+            "close_date": "2-Jun",
+            "(All)": "66962"
+        },
+        {
+            "close_date": "3-Jun",
+            "(All)": "50983"
+        },
+        {
+            "close_date": "4-Jun",
+            "(All)": "44307"
+        },
+        {
+            "close_date": "5-Jun",
+            "(All)": "39319"
+        },
+        {
+            "close_date": "6-Jun",
+            "(All)": "45084"
+        },
+        {
+            "close_date": "7-Jun",
+            "(All)": "74034"
+        },
+        {
+            "close_date": "8-Jun",
+            "(All)": "16946"
+        },
+        {
+            "close_date": "9-Jun",
+            "(All)": "41834"
+        },
+        {
+            "close_date": "10-Jun",
+            "(All)": "28457"
+        },
+        {
+            "close_date": "11-Jun",
+            "(All)": "67239"
+        },
+        {
+            "close_date": "12-Jun",
+            "(All)": "43534"
+        },
+        {
+            "close_date": "13-Jun",
+            "(All)": "31156"
+        },
+        {
+            "close_date": "14-Jun",
+            "(All)": "37991"
+        },
+        {
+            "close_date": "15-Jun",
+            "(All)": "36379"
+        },
+        {
+            "close_date": "16-Jun",
+            "(All)": "27760"
+        },
+        {
+            "close_date": "17-Jun",
+            "(All)": "43153"
+        },
+        {
+            "close_date": "18-Jun",
+            "(All)": "49011"
+        },
+        {
+            "close_date": "19-Jun",
+            "(All)": "47808"
+        },
+        {
+            "close_date": "20-Jun",
+            "(All)": "25055"
+        },
+        {
+            "close_date": "21-Jun",
+            "(All)": "41244"
+        },
+        {
+            "close_date": "22-Jun",
+            "(All)": "26638"
+        },
+        {
+            "close_date": "23-Jun",
+            "(All)": "27722"
+        },
+        {
+            "close_date": "24-Jun",
+            "(All)": "34540"
+        },
+        {
+            "close_date": "25-Jun",
+            "(All)": "46629"
+        },
+        {
+            "close_date": "26-Jun",
+            "(All)": "64014"
+        },
+        {
+            "close_date": "27-Jun",
+            "(All)": "82193"
+        },
+        {
+            "close_date": "28-Jun",
+            "(All)": "82280"
+        },
+        {
+            "close_date": "29-Jun",
+            "(All)": "30981"
+        },
+        {
+            "close_date": "30-Jun",
+            "(All)": "65388"
+        },
+        {
+            "close_date": "Jul",
+            "(All)": "696932"
+        },
+        {
+            "close_date": "1-Jul",
+            "(All)": "29664"
+        },
+        {
+            "close_date": "2-Jul",
+            "(All)": "20595"
+        },
+        {
+            "close_date": "3-Jul",
+            "(All)": "12161"
+        },
+        {
+            "close_date": "4-Jul",
+            "(All)": "32132"
+        },
+        {
+            "close_date": "5-Jul",
+            "(All)": "20376"
+        },
+        {
+            "close_date": "6-Jul",
+            "(All)": "27752"
+        },
+        {
+            "close_date": "7-Jul",
+            "(All)": "30378"
+        },
+        {
+            "close_date": "8-Jul",
+            "(All)": "24940"
+        },
+        {
+            "close_date": "9-Jul",
+            "(All)": "32617"
+        },
+        {
+            "close_date": "10-Jul",
+            "(All)": "7747"
+        },
+        {
+            "close_date": "11-Jul",
+            "(All)": "23909"
+        },
+        {
+            "close_date": "12-Jul",
+            "(All)": "11886"
+        },
+        {
+            "close_date": "13-Jul",
+            "(All)": "12098"
+        },
+        {
+            "close_date": "14-Jul",
+            "(All)": "25755"
+        },
+        {
+            "close_date": "15-Jul",
+            "(All)": "14965"
+        },
+        {
+            "close_date": "16-Jul",
+            "(All)": "22161"
+        },
+        {
+            "close_date": "17-Jul",
+            "(All)": "20709"
+        },
+        {
+            "close_date": "18-Jul",
+            "(All)": "28450"
+        },
+        {
+            "close_date": "19-Jul",
+            "(All)": "26587"
+        },
+        {
+            "close_date": "20-Jul",
+            "(All)": "2769"
+        },
+        {
+            "close_date": "21-Jul",
+            "(All)": "16881"
+        },
+        {
+            "close_date": "22-Jul",
+            "(All)": "16274"
+        },
+        {
+            "close_date": "23-Jul",
+            "(All)": "14961"
+        },
+        {
+            "close_date": "24-Jul",
+            "(All)": "13705"
+        },
+        {
+            "close_date": "25-Jul",
+            "(All)": "15531"
+        },
+        {
+            "close_date": "26-Jul",
+            "(All)": "41568"
+        },
+        {
+            "close_date": "27-Jul",
+            "(All)": "31014"
+        },
+        {
+            "close_date": "28-Jul",
+            "(All)": "39044"
+        },
+        {
+            "close_date": "29-Jul",
+            "(All)": "17246"
+        },
+        {
+            "close_date": "30-Jul",
+            "(All)": "26699"
+        },
+        {
+            "close_date": "31-Jul",
+            "(All)": "36358"
+        },
+        {
+            "close_date": "Aug",
+            "(All)": "1050059"
+        },
+        {
+            "close_date": "1-Aug",
+            "(All)": "15877"
+        },
+        {
+            "close_date": "2-Aug",
+            "(All)": "43281"
+        },
+        {
+            "close_date": "3-Aug",
+            "(All)": "23752"
+        },
+        {
+            "close_date": "4-Aug",
+            "(All)": "36721"
+        },
+        {
+            "close_date": "5-Aug",
+            "(All)": "44197"
+        },
+        {
+            "close_date": "6-Aug",
+            "(All)": "26266"
+        },
+        {
+            "close_date": "7-Aug",
+            "(All)": "21807"
+        },
+        {
+            "close_date": "8-Aug",
+            "(All)": "33355"
+        },
+        {
+            "close_date": "9-Aug",
+            "(All)": "35570"
+        },
+        {
+            "close_date": "10-Aug",
+            "(All)": "32086"
+        },
+        {
+            "close_date": "11-Aug",
+            "(All)": "57878"
+        },
+        {
+            "close_date": "12-Aug",
+            "(All)": "48225"
+        },
+        {
+            "close_date": "13-Aug",
+            "(All)": "11072"
+        },
+        {
+            "close_date": "14-Aug",
+            "(All)": "69661"
+        },
+        {
+            "close_date": "15-Aug",
+            "(All)": "24160"
+        },
+        {
+            "close_date": "16-Aug",
+            "(All)": "42620"
+        },
+        {
+            "close_date": "17-Aug",
+            "(All)": "48139"
+        },
+        {
+            "close_date": "18-Aug",
+            "(All)": "10654"
+        },
+        {
+            "close_date": "19-Aug",
+            "(All)": "37088"
+        },
+        {
+            "close_date": "20-Aug",
+            "(All)": "44676"
+        },
+        {
+            "close_date": "21-Aug",
+            "(All)": "24816"
+        },
+        {
+            "close_date": "22-Aug",
+            "(All)": "36724"
+        },
+        {
+            "close_date": "23-Aug",
+            "(All)": "58375"
+        },
+        {
+            "close_date": "24-Aug",
+            "(All)": "20960"
+        },
+        {
+            "close_date": "25-Aug",
+            "(All)": "33792"
+        },
+        {
+            "close_date": "26-Aug",
+            "(All)": "21903"
+        },
+        {
+            "close_date": "27-Aug",
+            "(All)": "30308"
+        },
+        {
+            "close_date": "28-Aug",
+            "(All)": "46367"
+        },
+        {
+            "close_date": "29-Aug",
+            "(All)": "45527"
+        },
+        {
+            "close_date": "30-Aug",
+            "(All)": "16373"
+        },
+        {
+            "close_date": "31-Aug",
+            "(All)": "7829"
+        },
+        {
+            "close_date": "Sep",
+            "(All)": "1235264"
+        },
+        {
+            "close_date": "1-Sep",
+            "(All)": "36916"
+        },
+        {
+            "close_date": "2-Sep",
+            "(All)": "47501"
+        },
+        {
+            "close_date": "3-Sep",
+            "(All)": "39872"
+        },
+        {
+            "close_date": "4-Sep",
+            "(All)": "30264"
+        },
+        {
+            "close_date": "5-Sep",
+            "(All)": "41642"
+        },
+        {
+            "close_date": "6-Sep",
+            "(All)": "42154"
+        },
+        {
+            "close_date": "7-Sep",
+            "(All)": "36514"
+        },
+        {
+            "close_date": "8-Sep",
+            "(All)": "23574"
+        },
+        {
+            "close_date": "9-Sep",
+            "(All)": "25234"
+        },
+        {
+            "close_date": "10-Sep",
+            "(All)": "45245"
+        },
+        {
+            "close_date": "11-Sep",
+            "(All)": "27676"
+        },
+        {
+            "close_date": "12-Sep",
+            "(All)": "52877"
+        },
+        {
+            "close_date": "13-Sep",
+            "(All)": "60398"
+        },
+        {
+            "close_date": "14-Sep",
+            "(All)": "31689"
+        },
+        {
+            "close_date": "15-Sep",
+            "(All)": "49204"
+        },
+        {
+            "close_date": "16-Sep",
+            "(All)": "53038"
+        },
+        {
+            "close_date": "17-Sep",
+            "(All)": "48394"
+        },
+        {
+            "close_date": "18-Sep",
+            "(All)": "63932"
+        },
+        {
+            "close_date": "19-Sep",
+            "(All)": "31480"
+        },
+        {
+            "close_date": "20-Sep",
+            "(All)": "19272"
+        },
+        {
+            "close_date": "21-Sep",
+            "(All)": "48756"
+        },
+        {
+            "close_date": "22-Sep",
+            "(All)": "31319"
+        },
+        {
+            "close_date": "23-Sep",
+            "(All)": "48868"
+        },
+        {
+            "close_date": "24-Sep",
+            "(All)": "35579"
+        },
+        {
+            "close_date": "25-Sep",
+            "(All)": "16736"
+        },
+        {
+            "close_date": "26-Sep",
+            "(All)": "57393"
+        },
+        {
+            "close_date": "27-Sep",
+            "(All)": "59760"
+        },
+        {
+            "close_date": "28-Sep",
+            "(All)": "26728"
+        },
+        {
+            "close_date": "29-Sep",
+            "(All)": "37770"
+        },
+        {
+            "close_date": "30-Sep",
+            "(All)": "65479"
+        },
+        {
+            "close_date": "Oct",
+            "(All)": "731980"
+        },
+        {
+            "close_date": "1-Oct",
+            "(All)": "18768"
+        },
+        {
+            "close_date": "2-Oct",
+            "(All)": "15932"
+        },
+        {
+            "close_date": "3-Oct",
+            "(All)": "23414"
+        },
+        {
+            "close_date": "4-Oct",
+            "(All)": "20463"
+        },
+        {
+            "close_date": "5-Oct",
+            "(All)": "37139"
+        },
+        {
+            "close_date": "6-Oct",
+            "(All)": "7443"
+        },
+        {
+            "close_date": "7-Oct",
+            "(All)": "31748"
+        },
+        {
+            "close_date": "8-Oct",
+            "(All)": "18683"
+        },
+        {
+            "close_date": "9-Oct",
+            "(All)": "35181"
+        },
+        {
+            "close_date": "10-Oct",
+            "(All)": "25587"
+        },
+        {
+            "close_date": "11-Oct",
+            "(All)": "28745"
+        },
+        {
+            "close_date": "12-Oct",
+            "(All)": "18157"
+        },
+        {
+            "close_date": "13-Oct",
+            "(All)": "16433"
+        },
+        {
+            "close_date": "14-Oct",
+            "(All)": "34971"
+        },
+        {
+            "close_date": "15-Oct",
+            "(All)": "13858"
+        },
+        {
+            "close_date": "16-Oct",
+            "(All)": "26747"
+        },
+        {
+            "close_date": "17-Oct",
+            "(All)": "20353"
+        },
+        {
+            "close_date": "18-Oct",
+            "(All)": "6655"
+        },
+        {
+            "close_date": "19-Oct",
+            "(All)": "12480"
+        },
+        {
+            "close_date": "20-Oct",
+            "(All)": "38144"
+        },
+        {
+            "close_date": "21-Oct",
+            "(All)": "17625"
+        },
+        {
+            "close_date": "22-Oct",
+            "(All)": "5723"
+        },
+        {
+            "close_date": "23-Oct",
+            "(All)": "31367"
+        },
+        {
+            "close_date": "24-Oct",
+            "(All)": "35578"
+        },
+        {
+            "close_date": "25-Oct",
+            "(All)": "19960"
+        },
+        {
+            "close_date": "26-Oct",
+            "(All)": "20935"
+        },
+        {
+            "close_date": "27-Oct",
+            "(All)": "37189"
+        },
+        {
+            "close_date": "28-Oct",
+            "(All)": "18568"
+        },
+        {
+            "close_date": "29-Oct",
+            "(All)": "53196"
+        },
+        {
+            "close_date": "30-Oct",
+            "(All)": "23807"
+        },
+        {
+            "close_date": "31-Oct",
+            "(All)": "17131"
+        },
+        {
+            "close_date": "Nov",
+            "(All)": "938943"
+        },
+        {
+            "close_date": "1-Nov",
+            "(All)": "28818"
+        },
+        {
+            "close_date": "2-Nov",
+            "(All)": "30830"
+        },
+        {
+            "close_date": "3-Nov",
+            "(All)": "35921"
+        },
+        {
+            "close_date": "4-Nov",
+            "(All)": "44655"
+        },
+        {
+            "close_date": "5-Nov",
+            "(All)": "23603"
+        },
+        {
+            "close_date": "6-Nov",
+            "(All)": "42891"
+        },
+        {
+            "close_date": "7-Nov",
+            "(All)": "40823"
+        },
+        {
+            "close_date": "8-Nov",
+            "(All)": "28977"
+        },
+        {
+            "close_date": "9-Nov",
+            "(All)": "23227"
+        },
+        {
+            "close_date": "10-Nov",
+            "(All)": "67659"
+        },
+        {
+            "close_date": "11-Nov",
+            "(All)": "24069"
+        },
+        {
+            "close_date": "12-Nov",
+            "(All)": "26558"
+        },
+        {
+            "close_date": "13-Nov",
+            "(All)": "22997"
+        },
+        {
+            "close_date": "14-Nov",
+            "(All)": "47576"
+        },
+        {
+            "close_date": "15-Nov",
+            "(All)": "27741"
+        },
+        {
+            "close_date": "16-Nov",
+            "(All)": "15545"
+        },
+        {
+            "close_date": "17-Nov",
+            "(All)": "23877"
+        },
+        {
+            "close_date": "18-Nov",
+            "(All)": "15755"
+        },
+        {
+            "close_date": "19-Nov",
+            "(All)": "51558"
+        },
+        {
+            "close_date": "20-Nov",
+            "(All)": "25125"
+        },
+        {
+            "close_date": "21-Nov",
+            "(All)": "31057"
+        },
+        {
+            "close_date": "22-Nov",
+            "(All)": "22808"
+        },
+        {
+            "close_date": "23-Nov",
+            "(All)": "22793"
+        },
+        {
+            "close_date": "24-Nov",
+            "(All)": "27630"
+        },
+        {
+            "close_date": "25-Nov",
+            "(All)": "20799"
+        },
+        {
+            "close_date": "26-Nov",
+            "(All)": "37113"
+        },
+        {
+            "close_date": "27-Nov",
+            "(All)": "32558"
+        },
+        {
+            "close_date": "28-Nov",
+            "(All)": "26814"
+        },
+        {
+            "close_date": "29-Nov",
+            "(All)": "38062"
+        },
+        {
+            "close_date": "30-Nov",
+            "(All)": "31104"
+        },
+        {
+            "close_date": "Dec",
+            "(All)": "1131573"
+        },
+        {
+            "close_date": "1-Dec",
+            "(All)": "30421"
+        },
+        {
+            "close_date": "2-Dec",
+            "(All)": "13171"
+        },
+        {
+            "close_date": "3-Dec",
+            "(All)": "25029"
+        },
+        {
+            "close_date": "4-Dec",
+            "(All)": "66062"
+        },
+        {
+            "close_date": "5-Dec",
+            "(All)": "42464"
+        },
+        {
+            "close_date": "6-Dec",
+            "(All)": "27049"
+        },
+        {
+            "close_date": "7-Dec",
+            "(All)": "40965"
+        },
+        {
+            "close_date": "8-Dec",
+            "(All)": "39298"
+        },
+        {
+            "close_date": "9-Dec",
+            "(All)": "55129"
+        },
+        {
+            "close_date": "10-Dec",
+            "(All)": "38819"
+        },
+        {
+            "close_date": "11-Dec",
+            "(All)": "21242"
+        },
+        {
+            "close_date": "12-Dec",
+            "(All)": "31375"
+        },
+        {
+            "close_date": "13-Dec",
+            "(All)": "14655"
+        },
+        {
+            "close_date": "14-Dec",
+            "(All)": "42850"
+        },
+        {
+            "close_date": "15-Dec",
+            "(All)": "33137"
+        },
+        {
+            "close_date": "16-Dec",
+            "(All)": "35641"
+        },
+        {
+            "close_date": "17-Dec",
+            "(All)": "35069"
+        },
+        {
+            "close_date": "18-Dec",
+            "(All)": "35803"
+        },
+        {
+            "close_date": "19-Dec",
+            "(All)": "33182"
+        },
+        {
+            "close_date": "20-Dec",
+            "(All)": "43140"
+        },
+        {
+            "close_date": "21-Dec",
+            "(All)": "24789"
+        },
+        {
+            "close_date": "22-Dec",
+            "(All)": "56973"
+        },
+        {
+            "close_date": "23-Dec",
+            "(All)": "20456"
+        },
+        {
+            "close_date": "24-Dec",
+            "(All)": "25051"
+        },
+        {
+            "close_date": "25-Dec",
+            "(All)": "39569"
+        },
+        {
+            "close_date": "26-Dec",
+            "(All)": "31195"
+        },
+        {
+            "close_date": "27-Dec",
+            "(All)": "32896"
+        },
+        {
+            "close_date": "28-Dec",
+            "(All)": "55604"
+        },
+        {
+            "close_date": "29-Dec",
+            "(All)": "40323"
+        },
+        {
+            "close_date": "30-Dec",
+            "(All)": "58452"
+        },
+        {
+            "close_date": "31-Dec",
+            "(All)": "41764"
+        },
+        {
+            "close_date": "Grand Total",
+            "(All)": "10005534"
+        }
+    ]
+}
