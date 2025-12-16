@@ -8,7 +8,7 @@ export default function Sales() {
     series: [
       {
         name: t("Average_Daily_Sales"),
-        data: [38, 48, 50, 40, 42, 30, 33],
+        data: [22, 48, 90, 20, 55, 43, 90],
       },
     ],
     options: {

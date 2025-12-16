@@ -9,7 +9,7 @@ export default function CompletedGoals() {
     series: [
       {
         name: t("Completed_Goals"),
-        data: [70, 60, 90, 80, 100, 70, 80],
+        data: [20, 60, 70, 20, 90, 70, 10],
       },
     ],
     options: {

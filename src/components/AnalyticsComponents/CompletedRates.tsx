@@ -7,7 +7,7 @@ export default function CompletedRates() {
     series: [
       {
         name: t("Complete_Rates"),
-        data: [70, 60, 90, 80, 100, 70, 80],
+        data: [80, 60, 12, 10, 100, 99, 30],
       },
     ],
     options: {

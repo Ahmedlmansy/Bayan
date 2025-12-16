@@ -5,10 +5,10 @@ import { useTranslation } from "react-i18next";
 export default function AllRating() {
   const countStar = [
     { stars: "5 Star", percentage: 50 },
-    { stars: "4 Star", percentage: 40 },
-    { stars: "3 Star", percentage: 30 },
-    { stars: "2 Star", percentage: 20 },
-    { stars: "1 Star", percentage: 10 },
+    { stars: "4 Star", percentage: 66 },
+    { stars: "3 Star", percentage: 90 },
+    { stars: "2 Star", percentage: 12 },
+    { stars: "1 Star", percentage: 5 },
   ];
   const { t } = useTranslation("common");
   return (

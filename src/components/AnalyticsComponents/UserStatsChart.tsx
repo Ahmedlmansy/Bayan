@@ -5,7 +5,10 @@ import { useTranslation } from "react-i18next";
 
 export default function UserStatsChart() {
   const { t } = useTranslation("common");
-
+  const monthlyUsers = [
+    217509, 280312, 288385, 263585, 225887, 208961, 179824, 193983, 396856,
+    243672, 205556, 119359,
+  ];
   const [mounted, setMounted] = useState(false);
   const [activeIndex, setActiveIndex] = useState(0);
   useEffect(() => {
@@ -26,16 +29,18 @@ export default function UserStatsChart() {
         name: "Monthly number",
 
         data: [
-          { x: "Jan", y: 7000 },
-          { x: "Feb", y: 4000 },
-          { x: "Mar", y: 5000 },
-          { x: "Apr", y: 17000 },
-          { x: "May", y: 18000 },
-          { x: "Jun", y: 35000 },
-          { x: "Jul", y: 22000 },
-          { x: "Aug", y: 10000 },
-          { x: "Sep", y: 6000 },
-          { x: "Oct", y: 18000 },
+          { x: "Jan", y: monthlyUsers[0] },
+          { x: "Feb", y: monthlyUsers[1] },
+          { x: "Mar", y: monthlyUsers[2] },
+          { x: "Apr", y: monthlyUsers[3] },
+          { x: "May", y: monthlyUsers[4] },
+          { x: "Jun", y: monthlyUsers[5] },
+          { x: "Jul", y: monthlyUsers[6] },
+          { x: "Aug", y: monthlyUsers[7] },
+          { x: "Sep", y: monthlyUsers[8] },
+          { x: "Oct", y: monthlyUsers[9] },
+          { x: "Nov", y: monthlyUsers[10] },
+          { x: "Des", y: monthlyUsers[11] },
         ],
       },
     ],

@@ -1,6 +1,6 @@
 import { useState, useEffect } from "react";
 import { onAuthStateChanged } from "firebase/auth";
-import { auth } from "@/lib/firebase"; // تأكد من المسار الصحيح
+import { auth } from "@/lib/firebase";
 
 export function useAuth() {
   const [user, setUser] = useState(null);
@@ -13,6 +13,9 @@ export function useAuth() {
       setLoading(false);
       return;
     }
+
+
+    
 
     try {
       const unsubscribe = onAuthStateChanged(

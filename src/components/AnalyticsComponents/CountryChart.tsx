@@ -6,7 +6,7 @@ export default function CountryChart() {
     series: [
       {
         name: "Completed Retes ",
-        data: [60, 40, 80, 60, 90, 70, 80],
+        data: [20, 10, 99, 50, 20, 55, 99],
       },
     ],
     options: {

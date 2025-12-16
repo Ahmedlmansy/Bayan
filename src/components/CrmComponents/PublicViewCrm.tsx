@@ -9,7 +9,7 @@ export default function PublicView() {
     series: [
       {
         name: t("Campaign_Sent"),
-        data: [40, 60, 80, 100, 80, 60, 40],
+        data: [50, 70, 50, 90, 66, 44, 30],
       },
     ],
     options: {

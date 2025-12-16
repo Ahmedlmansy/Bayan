@@ -22,7 +22,7 @@ export default function OrderThisMonth() {
         </div>
         <LinearProgress
           variant="determinate"
-          value={75}
+          value={70}
           sx={{
             height: 8,
             borderRadius: 5,

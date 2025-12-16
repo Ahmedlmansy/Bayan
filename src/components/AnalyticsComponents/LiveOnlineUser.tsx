@@ -8,7 +8,7 @@ export default function LiveOnlineUser() {
     series: [
       {
         name: "Live Users",
-        data: [20, 35, 47, 40, 45, 30, 25],
+        data: [89, 30, 10, 12, 90, 18, 55],
       },
     ],
     options: {

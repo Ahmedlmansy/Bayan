@@ -8,7 +8,7 @@ import EditNoteIcon from "@mui/icons-material/EditNote";
 export default function MostLeads() {
   const { t } = useTranslation("common");
   const donutData = {
-    series: [60, 10, 20, 10],
+    series: [50, 20, 20, 10],
     options: {
       labels: [t("Email"), t("Call"), t("Social"), t("Other")],
       colors: ["#674FE4", "#11B483", "#495361", "#CCD0D6"],

@@ -8,7 +8,7 @@ export default function SalesForecast() {
     series: [
       {
         name: t("Average_Daily_Sales"),
-        data: [50, 28, 40],
+        data: [12, 90, 40],
       },
     ],
     options: {
